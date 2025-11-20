@@ -5,7 +5,7 @@ The project compares a **3D avatar interface** with a **classical text interface
 It consists of a **SvelteKit client** (3D rendering + evaluation UI) and a **Python Flask server** (STT, TTS, LLM proxy).
 
 > ⚠️ **Research prototype** – no guarantees for correctness, stability, or production use.
-> ⚠️ **Backend server** available here:
+> ⚠️ **Backend server (local)** available here:
 > 👉 **[https://github.com/lechiffrebeats/3d-ai-avatars-server](https://github.com/lechiffrebeats/3d-ai-avatars-server)**
 
 ---
@@ -18,14 +18,14 @@ It consists of a **SvelteKit client** (3D rendering + evaluation UI) and a **Pyt
 
 * **SvelteKit App Server**
 
-  * Proxies requests to the Python server (`/histarBackend/*`).
+  * Proxies requests to the Python server (`/histarBackend/*`) mentioned above.
   * Controls avatar actions and stores evaluation data (Supabase).
 
 * **Python Server (Flask on Ubuntu VM)**
 
   * Endpoints for `/gwdg/chat`, `/stt`, `/tts`, etc.
   * Whisper (STT), Piper (TTS), phoneme/viseme extraction.
-  * Acts as a proxy to the GWDG LLM (`meta-llama-3.1-8b-rag`).
+  * Acts as a proxy to the GWDG LLM (`meta-llama-3.1-8b-rag`) or if you have cuda/gpu on do it locally [https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct).
 
 * **GWDG RAG Container**
 
@@ -40,27 +40,8 @@ It consists of a **SvelteKit client** (3D rendering + evaluation UI) and a **Pyt
 The avatar models used in this project are **paid assets purchased from CGTrader**. 
 Due to licensing restrictions, **the original `.glb/.fbx` files cannot be included in this public repository** and are **not allowed to be redistributed**.
 
-Instead, the repository contains only **code**, **placeholders**, and **instructions**.
-
-If you want to run the full 3D avatar version:
-
-```
-static/models/
-  Male_Version_2.glb        ← (not included)
-  Female_Version_4.glb      ← (not included)
-```
-
-### 🔒 Why the models are not included
-
-CGTrader’s Royalty-Free License **prohibits uploading or sharing the raw 3D model files** in any way that allows extraction (including public GitHub repositories).
-
-### ✔️ What *is* allowed
-
-You may:
-
 * use your **own legally purchased copy** of the avatars
-* place them in `static/models/`
-* run the project without modifications
+* place them in `static/models/` & adjust naming in Avatar.svelte
 * replace them with **your own models** (open-source or custom)
 
 ### 📩 Need help?
@@ -70,7 +51,7 @@ If you need a **license-safe alternative setup**, contact me or replace the mode
 ## 🔧 **Tech Stack**
 
 **Frontend:** SvelteKit, TypeScript, Three.js, Supabase, i18n
-**Backend:** Python 3.10, Flask, Whisper, Piper, Gunicorn + Nginx
+**Backend:** Python 3.10, Flask, Whisper, Piper, Gunicorn + Nginx, PiperTTS, BFA
 **LLM:** `meta-llama-3.1-8b-rag` (via GWDG RAG Container)
 
 ---
