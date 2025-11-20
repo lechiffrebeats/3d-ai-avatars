@@ -66,7 +66,7 @@ If you need a **license-safe alternative setup**, contact me or replace the mode
 - **ARCANA (HPC GWDG)** – https://docs.hpc.gwdg.de/services/arcana/index.html  
 - **Bournemouth Forced Aligner (BFA)** – https://github.com/tabahi/bournemouth-forced-aligner  
 - **Whisper (OpenAI)** – https://platform.openai.com/research/whisper  
-- **Coqui TTS** – https://github.com/coqui-ai/TTS  
+- **PiperTTS** – https://github.com/OHF-Voice/piper1-gpl
 
 For the full list of software usage and licensing, see:  
 `/about?p=oss`
