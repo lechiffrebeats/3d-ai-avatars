@@ -1,0 +1,864 @@
+{
+  "title": "Traust du mir?",
+  "subtitle": "3D-KI-Avatare zur vertrauenswürdigen Bereitstellung von Studieninformationen",
+  "cta": "Finde es heraus",
+  "footer": {
+    "about": "Über",
+    "impressum": "Impressum",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookies",
+    "oss": "Lizenzen",
+    "system": "System",
+    "evaluation": "Evaluation"
+    },
+  "about": {
+    "meta": {
+      "title": "Rechtliches · {section}",
+      "description": "Rechtliche Informationen und Projektdetails (Impressum, Datenschutzerklärung, Nutzungsbedingungen, Cookies, Open-Source-Lizenzen, Systemanforderungen, Evaluation)."
+    },
+    "h1": "Über dieses Projekt",
+    "aria": {
+      "tabs": "Rechtstexte"
+    },
+    "tabs": {
+      "about": "Über",
+      "impressum": "Impressum",
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "cookies": "Cookies",
+      "oss": "Lizenzen",
+      "system": "System",
+      "eval": "Evaluation"
+    },
+    "loading": "Lädt …",
+    "deeplinks": {
+      "label": "Direkte Links:"
+    }
+    },
+  "feedback": {
+    "meta": {
+      "title": "Feedback",
+      "description": "Melde ein Problem oder gib Feedback zum Projekt."
+    },
+    "h1": "Feedback & Bugs",
+    "lead": "Beschreibe das Problem möglichst präzise. E-Mail ist optional – Einsendungen können anonym erfolgen.",
+    "success": "Danke! Dein Feedback wurde gesendet.",
+    "error": {
+      "noDescription": "Bitte eine kurze Problembeschreibung eingeben.",
+      "noConsent": "Bitte den Datenschutzhinweis bestätigen.",
+      "sendFail": "Senden fehlgeschlagen."
+    },
+    "fields": {
+      "category": {
+        "label": "Kategorie",
+        "options": {
+          "bug": "Bug",
+          "idea": "Verbesserung",
+          "content": "Inhalt",
+          "other": "Sonstiges"
+        }
+      },
+      "severity": {
+        "label": "Priorität",
+        "low": "Niedrig",
+        "normal": "Normal",
+        "high": "Hoch"
+      },
+      "description": {
+        "label": "Beschreibung",
+        "max": "max. {n} Zeichen",
+        "placeholder": "Was ist passiert? Erwartetes vs. tatsächliches Verhalten, relevante Fehlermeldungen …"
+      },
+      "steps": {
+        "label": "Reproduktionsschritte",
+        "optional": "optional",
+        "placeholder": "1) …  2) …  3) …"
+      },
+      "email": {
+        "label": "E-Mail (optional)",
+        "placeholder": "name@example.org"
+      },
+      "consent": "Ich bin einverstanden, dass die Angaben zur Fehlersuche verarbeitet werden."
+    },
+    "hint": "Technische Metadaten (Browser & Seite) werden automatisch mitgesendet.",
+    "button": {
+      "submit": "Abschicken",
+      "sending": "Sende…",
+      "success": "Erfolgreich abgeschickt!" 
+    }
+  },
+  "eval": {
+    "alt": "Evaluation",
+    "title": "Evaluation",
+    "bullets": {
+      "surveycicle": "(Nutzer von <a href='https://surveycircle.com' target='_blank' rel='noopener noreferrer'>SurveyCircle.com</a> erhalten für ihre Teilnahme Punkte, mit denen sie kostenlos Studienteilnehmer rekrutieren  können🥳.)",
+      "purpose": "Zweck: Evaluation eines Prototyps im Rahmen einer Bachelorarbeit.",
+      "storage": "Chats & Antworten werden nur für diese  Evaluation <a href='/about?p=eval' target='_blank' rel='noopener noreferrer' class='link-color'>in der EU gespeichert</a> .",
+      "avatar": "Wählen Sie <b>jetzt</b> Ihren Avatar (später nicht mehr änderbar).",
+      "latency": "Antwortzeiten können bis zu 15 Sekunden betragen.",
+      "noPersonalData": "Keine persönlichen Daten eingeben.",
+      "system": "Desktop/Laptop & <a href='/about?p=system' target='_blank' rel='noopener noreferrer' class='link-color'>chromium-basierter Browser</a> empfohlen.",
+      "sound": "Ton einschalten (Avatare sprechen). Hintergrundaudio oben links regulierbar.",
+      "language": "Verfügbar auf Deutsch & Englisch.",
+      "microphone": "Bitte Mikrofonzugriff erlauben, falls genutzt.",
+      "duration": "Dauer: ca. 10 Min."
+    },
+    "terms": "Durch Fortfahren akzeptieren Sie die <a href='/about?p=eval' class='link-color' target='_blank' style='color:rgb(222, 74, 0);' rel='noopener noreferrer'>Nutzungsbedingungen</a> & <a href='/about?p=privacy' class='link-color' target='_blank' style='color:rgb(222, 74, 0);' rel='noopener noreferrer'>Datenschutzerklärung</a>."
+  },
+  "eval2": {
+    "intro": {
+      "title": "In dieser Evaluation sollen Sie zwei verschiedene Interfaces vergleichen:"
+    },
+    "order": {
+      "ab": "Zunächst interagieren Sie mit dem <b style='color:{avatarColor}'>Avatar-Interface</b> (sichtbar im Hintergrund). Danach lädt automatisch ein <b style='color:{textColor}'>Text-Interface</b>.",
+      "ba": "Zunächst interagieren Sie mit dem <b style='color:{textColor}'>Text-Interface</b> (sichtbar im Hintergrund). Danach lädt automatisch ein <b style='color:{avatarColor}'>Avatar-Interface</b>."
+    },
+    "focus": "Im Mittelpunkt der Evaluation steht <b>Vertrauen</b>; zusätzlich erfassen wir u. a. <b>Usability</b> und <b>soziale Präsenz</b> im Kontext von Studieninformationen zum Masterstudiengang Informatik an der Universität Bremen. Sie bearbeiten kurze <b>Aufgaben</b> und bewerten anschließend Ihre Erfahrung.",
+    "phasesTitle": "Phasen:",
+    "demography": {
+      "label": "Demografie",
+      "dur": "≈25 Sek"
+    },
+    "gaais": {
+      "label": "Allgemeine Fragen KI",
+      "dur": "≈2 Min"
+    },
+    "interface": {
+      "avatar": "Avatar-Interface",
+      "text": "Text-Interface",
+      "durShort": "≈3 Min"
+    },
+    "pause": {
+      "label": "Kurze Pause",
+      "dur": "2 Min"
+    },
+    "questionnaire": {
+      "label": "Fragebogen",
+      "dur": "≈1 Min"
+    }
+  },
+  "task": {
+    "h1": "Aufgaben",
+    "alt": "Los geht’s",
+    "mode": {
+      "avatar": "Avatar-Interface",
+      "text": "Text-Interface"
+    },
+    "h2": "Aufgaben",
+    "intro": "Es folgen <b>drei kurze Aufgaben</b>. Löse sie über das <b>{modeLabel}</b> im Hintergrund.",
+    "perStep": {
+      "title": "Das müssen sie bei jeder Aufgabe machen:",
+      "items": {
+        "useChat": "Chatbot nutzen, um die Lösung zu finden.",
+        "input": "Eingabe per <b>Text</b> oder <b>Mikrofon</b>.",
+        "answerField": "Lösung ins <b>Antwortfeld</b> eintragen oder Option wählen.",
+        "rateAndNext": "Kurz bewerten, dann auf <b>Weiter</b> klicken."
+      }
+    },
+    "tips": {
+      "t1": {
+        "title": "Tipp",
+        "body": "Diesen Evaluations-Assistenten kannst du jederzeit minimieren: über ",
+        "body2": ", die <b>Esc</b>-Taste oder den Button oben rechts. Dein Fortschritt bleibt erhalten."
+      },
+      "t2": {
+        "title": "Tipp 2",
+        "body": "Es gibt einen Kopier-Button für Aufgabentexte. Bitte möglichst in <b>eigenen Worten</b> arbeiten."
+      }
+    }
+  },
+  "evalq": {
+    "likert": {
+      "left": "stimme gar nicht zu",
+      "right": "stimme voll zu"
+    },
+    "text": {
+      "placeholder": "Kommentar (optional)"
+    },
+    "select": {
+      "placeholder": "Bitte wählen"
+    },
+    "errors": {
+      "fill": "Bitte ausfüllen.",
+      "choose": "Bitte auswählen."
+    },
+    "unsupported": "Fragetyp „{type}“ wird nicht unterstützt.",
+    "notFound": "Frage nicht gefunden."
+  },
+  "taskinput": {
+    "subtitle": "Antwort:",
+    "number": {
+      "placeholderWithSuffix": "z. B. 5 {suffix}",
+      "placeholder": "Zahl eingeben"
+    },
+    "email": {
+      "placeholder": "name@example.com"
+    },
+    "select": {
+      "placeholder": "Bitte wählen"
+    },
+    "text": {
+      "placeholder": "Deine Antwort?"
+    }
+  },
+  "header": {
+    "nav": {
+      "start": "Start",
+      "about": "Über",
+      "feedback": "Feedback",
+      "evaluation": "Evaluation",
+      "chat": "Chat",
+      "results": "Ergebnisse"
+    },
+    "evaluate": {
+      "open": "Eval-Assistent öffnen",
+      "minimize": "Eval-Assistent minimieren",
+      "aria": "Evaluations-Assistent: {action}"
+    }
+  },
+  "aboutpage": {
+    "meta": {
+      "autor": "Ramón de Smit",
+      "studiengang": "Computer Science (B.Sc.)",
+      "title": "Über das Projekt – {titel}",
+      "description": "Überblick über die Bachelorarbeit von Ramón de Smit: Traust du mir? 3D-KI-Avatare zur vertrauenswürdigen Bereitstellung von Studieninformationen."
+      
+    },
+    "hero": {
+      "h1": "Über diese Bachelorarbeit",
+      "title": "Traust du mir? 3D-KI-Avatare zur vertrauenswürdigen Bereitstellung von Studieninformationen.",
+      "author": "Verfasser",
+      "tag": "Bachelorarbeit",
+      "autor": "Ramón de Smit",
+      "studiengang": "Informatik (B.Sc.)",
+      "email": "desmit@uni-bremen.de",
+      "hochschule": "Universität Bremen",
+      "date": "22.08.2025",
+      "primaryadvisor": "<a referrerpolicy='no-referrer' target='_blank' href='https://www.uni-bremen.de/dmlab/team/dr-ing-nina-wenig-runge'>Dr.-Ing. Nina Wenig (Runge)</a>",
+      "primaryadvisorKey": "1. Gutachter",
+      "secondaryadvisor": "<a referrerpolicy='no-referrer' target='_blank' href='https://www.uni-bremen.de/dmlab/team/dr-ing-martin-hoffmann'>Dr.-Ing. Martin Hoffmann</a>",
+      "secondaryadvisorKey": "2. Gutachter"
+    },
+    "links": {
+      "test": "Avatar testen",
+      "docu": "Dokumentation (PDF)",
+      "code": "Quellcode"
+    },
+    "abstract": {
+      "title": "Abstract",
+      "body": "Die Arbeit untersucht, inwiefern ein interaktiver 3D-KI-Avatar <b>Vertrauen</b> bei der Bereitstellung von Studieninformationen steigern kann (<a target='_blank' rel='noopener noreferrer' href='https://www.uni-bremen.de/studium/orientieren-bewerben/studienangebot/dbs/study/26?cHash=fd4ee5e1b64a3e2c90d2bc185e2a89c6'>Am Beispiel Masterstudiengang Informatik, Universität Bremen</a>). Dazu wurde ein webbasiertes System entwickelt, das in Echtzeit Spracheingabe, Sprachsynthese, 3D-Animation (Blendshaping) und kontextadaptives Rendering kombiniert. In der automatisierten <b><a href='/evaluation' target='_blank' rel='noopener noreferrer'>Evaluation</a></b> werden zwei Interaktionsmodi primär in Hinsicht auf Vertrauen verglichen: <b>Avatar-Interface versus Text-Interface.</b>"
+    },
+    "short": {
+      "title": "Projekt in Kürze",
+      "domain": "<b>Domäne:</b> Studieninformationen zum Master Informatik an der Universität Bremen",
+      "modes": "<b>Interaktionsmodi:</b> 3D-Avatar (Sprachdialog, Mimik, Gestik) und Text-Chat",
+      "goals": "<b>Ziele:</b> Vertrauensaufbau, Open-Source Lösung lokal & frei verwendbar",
+      "privacy": "<b>Datenschutz:</b> Anonym, keine Speicherung sensibler Personendaten",
+      "publication": "<b>Publikation:</b> Bachelorarbeit"
+    },
+    "components": {
+      "title": "Komponenten"
+    },
+    "research": {
+      "title": "Forschungsfragen",
+      "q1": "Wie beeinflusst die Interaktion mit einem humanisierten, multimodal gestalteten 3D-KI-Tutor das <b>Vertrauen</b> von Studierenden in der Informationsbeschaffung über die Universität Bremen?",
+      "q2": "Verbessert der Avatar die wahrgenommene <b>Verständlichkeit</b> und <b>Nützlichkeit</b> der Informationen?",
+      "q3": "Welche Wirksamkeit hat die <b>emotionale Reaktivität</b> des Agenten (also Mimik-Wechsel oder Körperanimation infolge von Beobachtungen)?",
+      "q4": "Tritt der <b><a target='_blank' href='https://en.wikipedia.org/wiki/Uncanny_valley'>Uncanny Valley Effekt</a></b> auf, wirken die getroffenen Maßnahmen entgegen?",
+      "q5": "Wie wirkt sich das Design der Modalitäten (Stimme, Mimik, visuelle Gestaltung, UI) auf die <b>soziale Präsenz</b> aus?"
+    },
+    "method": {
+      "title": "Methodik",
+      "body": "<a href='https://statistikguru.de/lexikon/within-subjects-design.html?utm_source=traustdumir.de' target='_blank'  rel='noopener noreferrer'>Within-Subject-Design</a> mit ausgewogener Reihenfolge (AB/BA). Das Avatar-Interface und das Text-Interface werden jeweils anhand standardisierter (NASA-TLX) und eigener Metriken bewertet. Metriken umfassen u. a. Dauer, Interaktionsschritte und Selbsteinschätzungen zu Vertrauen und Klarheit.",
+      "button": "An Evaluation teilnehmen",
+      "buttonResults": "Ergebnisse ansehen"
+    },
+    "background": {
+      "title": "Hintergrundbilder HDRI"
+
+    },
+    "contact": {
+      "title": "Kontakt"
+    }
+  },
+  "consent": {
+    "aria": "Einwilligungsdialog",
+    "title": "Experimenteller 3D-Avatar-Chatbot",
+    "lead": "Forschungsprototyp, Nutzung auf eigenes Risiko. Keine Gewähr auf Richtigkeit/Vollständigkeit. Bitte keine personenbezogenen Daten eingeben.",
+    "links": {
+      "intro": "Mit Fortfahren stimmst du zu: ",
+      "terms": "Nutzungsbedingungen",
+      "privacy": "Datenschutz",
+      "cookies": "Cookie-Hinweis"
+    },
+    "check": {
+      "tos": "Ich akzeptiere Nutzungsbedingungen & Datenschutzhinweise.",
+      "analytics": "Optionale Leistungsanalyse (Vercel Speed Insights) erlauben."
+    },
+    "buttons": {
+      "essentials": "Nur notwendige",
+      "all": "Alle erlauben"
+    },
+    "meta": {
+      "source_prefix": "Quelle erkannt:",
+      "source_note": "Wir speichern diese Information nur, wenn Sie Analytik erlauben."
+    }
+  },
+
+  "evaltaskq": {
+    "common": {
+      "clarity": "Die Antwort war klar und verständlich.",
+      "correctness": "Ich glaube, dass die Antwort sachlich korrekt ist.",
+      "credibility": "Die Quelle bzw. Überbringung der Antwort wirkt glaubwürdig.",
+      "usefulness": "Die Antwort war hilfreich für die Lösung der Aufgabe.",
+      "note": "Kurzer Kommentar (optional)"
+    }
+  },
+  "gaais": {
+    "p01": "Bei routinemäßigen Vorgängen würde ich lieber mit einem künstlich intelligenten System interagieren als mit einem Menschen.",
+    "p02": "Künstliche Intelligenz kann diesem Land neue wirtschaftliche Chancen eröffnen.",
+    "n03": "Organisationen setzen Künstliche Intelligenz unethisch ein.",
+    "p04": "Künstlich intelligente Systeme können Menschen helfen, sich glücklicher zu fühlen.",
+    "p05": "Ich bin beeindruckt davon, was Künstliche Intelligenz leisten kann.",
+    "n06": "Ich denke, dass künstlich intelligente Systeme viele Fehler machen.",
+    "p07": "Ich bin daran interessiert, künstlich intelligente Systeme in meinem Alltag zu nutzen.",
+    "n08": "Ich finde Künstliche Intelligenz unheimlich.",
+    "n09": "Künstliche Intelligenz könnte die Kontrolle über Menschen übernehmen.",
+    "n10": "Ich halte Künstliche Intelligenz für gefährlich.",
+    "p11": "Künstliche Intelligenz kann positive Auswirkungen auf das Wohlbefinden der Menschen haben.",
+    "p12": "Künstliche Intelligenz ist spannend.",
+    "p13": "Ein künstlich intelligenter Agent wäre in vielen Routinetätigkeiten besser als eine menschliche Arbeitskraft.",
+    "p14": "Es gibt viele vorteilhafte Anwendungen der Künstlichen Intelligenz.",
+    "n15": "Ich schaudere, wenn ich an zukünftige Anwendungen der Künstlichen Intelligenz denke.",
+    "p16": "Künstlich intelligente Systeme können besser abschneiden als Menschen.",
+    "p17": "Ein großer Teil der Gesellschaft wird von einer Zukunft voller Künstlicher Intelligenz profitieren.",
+    "p18": "Ich würde Künstliche Intelligenz gerne in meinem eigenen Beruf einsetzen.",
+    "n19": "Menschen wie ich werden leiden, wenn Künstliche Intelligenz immer mehr eingesetzt wird.",
+    "n20": "Künstliche Intelligenz wird dazu verwendet, Menschen auszuspionieren."
+  },
+  "gaaisInfo": {
+    "block": {
+      "title": "GAAIS – Allgemeine Einstellungen gegenüber Künstlicher Intelligenz",
+      "byline": "von Astrid Schepman & Paul Rodway",
+      "instructions": {
+        "title": "Anleitung:",
+        "body": "Wir interessieren uns für Ihre Einstellungen gegenüber Künstlicher Intelligenz. Unter Künstlicher Intelligenz verstehen wir Algorithmen die auf Computern laufen und Aufgaben erledigen können, die normalerweise menschliche Intelligenz erfordern. Dies können Computer, Roboter oder andere Hardwaregeräte sein, ggf. mit Sensoren oder Kameras. Bitte füllen Sie die folgende Skala aus und geben Sie Ihre Antwort zu jedem Item an. Es gibt keine richtigen oder falschen Antworten – uns interessieren Ihre persönlichen Ansichten."
+      },
+      "response": {
+        "title": "Antwortoptionen:",
+        "body": "(1) Stimme überhaupt nicht zu, (2) Stimme nicht zu, (3) Neutral, (4) Stimme zu, (5) Stimme voll zu"
+      }
+    }
+  },
+  "nasa": {
+    "mental": "Wie geistig anspruchsvoll waren die Aufgaben?",
+    "physical": "Wie körperlich anspruchsvoll waren die Aufgaben?",
+    "temporal": "Wie gehetzt oder zeitkritisch war das Arbeitstempo?",
+    "performance": "Wie erfolgreich waren Sie beim Erreichen der Aufgaben?",
+    "effort": "Wie viel Anstrengung war erforderlich, um diese Leistung zu erzielen?",
+    "frustration": "Wie unsicher, frustriert, gestresst oder verärgert haben Sie sich gefühlt?",
+    "low": "sehr gering",
+    "high": "sehr hoch",
+    "none": "gar nicht",
+    "strong": "sehr stark",
+    "perf": "perfekt",
+    "fail": "Fehlschlag",
+    "veryLow": "sehr wenig",
+    "veryHigh": "sehr viel"
+  },
+  "steps": {
+      "break": { "title": "Pause", "subtitle": "Mache bitte eine kurze Pause" },
+      "letsgo": {
+        "title": "Los geht’s!",
+        "subtitle": "Finde durch Interaktion mit dem Avatar-Interface die folgenden 3 Aufgaben heraus"
+      },
+      "start": { "title": "Willkommen zur Evaluation", "subtitle": "Bitte bestätige die Startbedingungen:" },
+      "info": { "title": "Ablauf", "subtitle": "" },
+      "demo": { "title": "Demografie", "subtitle": "Ein paar demografische Fragen" },
+      "gaais": {
+        "title": "GAAIS – Allgemeine Einstellungen zu Künstlicher Intelligenz",
+        "link": { "title": "Der GAAIS ist ein wissenschaftlich validierter Fragebogen zur Messung der Einstellung gegenüber KI."},
+        "subtitle": "Bitte bewerte die folgenden Aussagen"
+      },
+      "common": {
+        "subtitleTask": "Aufgabe",
+        "free": {
+          "title": "Freie Unterhaltung",
+          "pleasant": "Die freie Interaktion mit diesem Interface war angenehm.",
+          "comprehension": "Ich konnte die Antworten gut verstehen."
+        }
+      },
+      "nasa": {
+        "avatar": { "title": "NASA-TLX (Avatar)", "subtitle": "Bitte bewerte die Arbeitsbelastung während der Avatar-Interaktion (NASA—TLX)." },
+        "text":   { "title": "NASA-TLX (Text)",   "subtitle": "Bitte bewerte die Arbeitsbelastung während der Text-Interaktion (NASA—TLX)." }
+      },
+      "avatar": {
+        "0": {
+          "title": "Winterbewerbung: Frist (Endtermin)",
+          "task": "Sie planen den Start im Wintersemester und möchten sich an der Universität Bremen bewerben. Bestimmen Sie die Bewerbungsfrist (Endtermin) für das Wintersemester."
+        },
+        "1": {
+          "title": "Masterarbeit: Zulassungsvoraussetzung",
+          "task": "Sie bereiten die Anmeldung Ihrer Masterarbeit vor. Ermitteln Sie die erforderliche Mindestanzahl an Kreditpunkten für die Anmeldung."
+        },
+        "2": {
+          "title": "Master Informatik: Eignungstest?",
+          "task": "Sie bewerben sich für den Masterstudiengang Informatik an der Universität Bremen. Klären Sie, ob ein Eignungstest vorgesehen ist, und wählen Sie die zutreffende Option.",
+          "opt": {
+            "no_test": "Nein, kein Eignungstest erforderlich",
+            "always_test": "Ja, immer obligatorisch",
+            "only_limited": "Nur bei zulassungsbeschränkten Masterprogrammen",
+            "only_non_cs": "Nur wenn der Bachelor nicht Informatik war",
+            "case_by_case": "Nur nach Einladung, fallabhängig"
+          }
+        },
+        "3": {
+          "task": "Führen Sie eine kurze Unterhaltung (Tipp: Bitten Sie den Avatar um einen Witz)."
+        }
+      },
+      "text": {
+        "0": {
+          "title": "Sommerbewerbung: Frist (Endtermin)",
+          "task": "Sie planen den Start im Sommersemester und möchten sich an der Universität Bremen bewerben. Bestimmen Sie die Bewerbungsfrist (Endtermin) für das Sommersemester."
+        },
+        "1": {
+          "title": "Master: Abschlusskreditpunkte",
+          "task": "Sie stehen kurz vor dem Abschluss Ihres Masterstudiums. Ermitteln Sie die Anzahl der für den Masterabschluss erforderlichen Kreditpunkte."
+        },
+        "2": {
+          "title": "03-IBAP-ML: Voraussetzungen?",
+          "task": "Sie möchten das Modul 03-IBAP-ML (Grundlagen des Maschinellen Lernens) belegen. Prüfen Sie die inhaltlichen Voraussetzungen und wählen Sie die zutreffende Aussage.",
+          "opt": {
+            "none": "Keine (KEINE Voraussetzungen)",
+            "lin_alg": "Lineare Algebra verpflichtend",
+            "stats": "Statistik/Wahrscheinlichkeitstheorie verpflichtend",
+            "python": "Fortgeschrittene Python-Kenntnisse erforderlich",
+            "ml_basics": "Vorheriger ML-Grundkurs erforderlich"
+          }
+        },
+        "3": {
+          "task": "Kurzer Probelauf mit dem Chatbot. Führen Sie eine kurze Unterhaltung (Tipp: Bitten Sie den Chatbot um einen Witz)."
+        }
+      },
+      "variant_rate": {
+        "avatar": {
+          "title": "Variante Avatar – Kurze Bewertung",
+          "subtitle": "Bitte bewerten Sie das Avatar-Interface, mit dem Sie gerade interagiert haben.",
+          "items": {
+            "presence": "Ich hatte das Gefühl, einem echten Gegenüber zu begegnen (soziale Präsenz).",
+            "natural": "Die Interaktion wirkte natürlich und flüssig.",
+            "likeable": "Das Interface wirkte mir sympathisch.",
+            "enjoy": "Die Interaktion hat mir Spaß gemacht."
+          },
+          "note": "Kurzer Kommentar (optional)"
+        },
+        "text": {
+          "title": "Variante Text – Kurze Bewertung",
+          "subtitle": "Bitte bewerten Sie das Text-Interface, mit dem Sie gerade interagiert haben.",
+          "items": {
+            "presence": "Ich hatte das Gefühl, einem echten Gegenüber zu begegnen (soziale Präsenz).",
+            "natural": "Die Interaktion wirkte natürlich und flüssig.",
+            "likeable": "Das Interface wirkte mir sympathisch.",
+            "enjoy": "Die Interaktion hat mir Spaß gemacht."
+          },
+          "note": "Kurzer Kommentar (optional)"
+        }
+      },
+      "final": {
+        "title": "Abschlussfragebogen",
+        "subtitle": "Bitte Abschlussfragebogen bewerten",
+        "pref_interface": {
+          "label": "Welche Variante bevorzugst du?",
+          "opt": {
+            "avatar": "Avatar",
+            "text": "Text",
+            "equal": "Beide gleich",
+            "none": "Keine Präferenz"
+          }
+        },
+        "comp_understanding": {
+          "label": "Welche Variante war verständlicher? (Avatar − Text)",
+          "hint": "1 = klar Text · 4 = gleich · 7 = klar Avatar"
+        },
+        "comp_comfort": {
+          "label": "Welche Variante fühlte sich angenehmer an? (Avatar − Text)",
+          "hint": "1 = klar Text · 4 = gleich · 7 = klar Avatar"
+        },
+        "comp_trust": {
+          "label": "Welche Variante war vertrauenswürdiger? (Avatar − Text)",
+          "hint": "1 = klar Text · 4 = gleich · 7 = klar Avatar"
+        },
+        "tech_issues": "Technische Probleme/Unterbrechungen (optional)",
+        "final_feedback": "Letztes Feedback / Verbesserungsvorschläge (optional)"
+      }
+  },
+  "ui": {
+    "day": "Tag",
+    "month": "Monat"
+  },
+  "demo": {
+    "subtitle": "Kurze Demografie-Angaben",
+    "shared": {
+      "placeholder": "–",
+      "no_answer": "keine Angabe"
+    },
+    "age": {
+      "label": "Alter",
+      "placeholder": "z. B. 42"
+    },
+    "gender": {
+      "label": "Geschlecht",
+      "opt": {
+        "male": "männlich",
+        "female": "weiblich",
+        "diverse": "divers"
+      }
+    },
+    "status": {
+      "label": "Status an der Universität Bremen",
+      "opt": {
+        "bachelor": "Bachelor",
+        "master": "Master",
+        "doctoral": "Doktorand:in",
+        "alumni": "Alumni",
+        "external": "Extern"
+      }
+    },
+    "ai": {
+      "legend": "Erfahrung mit Chatbots/AI",
+      "hint": "1 = nie · 7 = sehr häufig"
+    },
+    "lang": {
+      "label": "Deutschkenntnisse",
+      "opt": {
+        "native": "Muttersprache",
+        "C2": "C2",
+        "C1": "C1",
+        "B2": "B2",
+        "B1_or_lower": "B1 oder niedriger"
+      }
+    },
+    "device": {
+      "label": "Gerät",
+      "opt": {
+        "desktop": "Desktop",
+        "laptop": "Laptop",
+        "tablet": "Tablet",
+        "smartphone": "Smartphone"
+      }
+    },
+    "domain": {
+      "legend": "Kenntnis Studieninfos (Uni Bremen, M.Sc. Informatik)",
+      "hint": "1 = gar nicht · 7 = sehr gut"
+    }
+  },
+  "likert": {
+    "default": {
+      "left": "stimme gar nicht zu",
+      "right": "stimme voll zu"
+    },
+    "error": "Bitte wählen Sie eine Option.",
+    "notFound": "Frage nicht gefunden."
+  },
+  "download": "Antworten herunterladen",
+  "close": "Schließen",
+  "evaluator": {
+    "header": {
+      "iconAlt": "Evaluation",
+      "minimize": "Fenster minimieren"
+    },
+    "buttons": {
+      "back": "Zurück",
+      "next": "Weiter",
+      "start": "Fortfahren",
+      "submit": "Abschicken"
+    },
+    "sending": "Wird gesendet…",
+    "sessionId": "SessionID für Datenlöschung",
+    "loading": "Lädt…"
+  },
+  "break": {
+    "titleActive": "Noch {minutes}:{seconds} Pause 💤",
+    "why": "Warum die Pause?",
+    "overTitle": "Pause vorbei! Mache weiter mit der 2. Hälfte!",
+    "ariaDone": "Pause beendet. Du kannst fortfahren.",
+    "imageAlt": "Timer-Animation",
+    "progressLabel": "Verbleibende Zeit"
+  },
+  "dateDM": {
+    "day": "Tag",
+    "month": "Monat",
+    "placeholder": "–",
+    "months": {
+      "01": "Januar",
+      "02": "Februar",
+      "03": "März",
+      "04": "April",
+      "05": "Mai",
+      "06": "Juni",
+      "07": "Juli",
+      "08": "August",
+      "09": "September",
+      "10": "Oktober",
+      "11": "November",
+      "12": "Dezember"
+    }
+  },
+  "common": { "copy": "Kopieren", "copied": "Kopiert" },
+  "input": {
+    "placeholder": "Frag mich etwas...",
+    "chathide": "Chatverlauf verbergen",
+    "chatshow": "Chatverlauf zeigen",
+    "resetsession": "Sitzung zurücksetzen",
+    "sessionreset": "Sitzung zurückgesetzt✅",
+    "startmic": "Aufnahme starten",
+    "stopmic": "Aufnahme stoppen",
+    "send": "Senden"
+  },
+  "legal": {
+    "cookies": {
+      "head": {
+        "title": "Cookie-Hinweis",
+        "description": "Informationen zu technisch notwendigen Speichern und optionaler Leistungsanalyse."
+      },
+      "h1": "Cookie-Hinweis",
+      "intro": "Wir verwenden <b>technisch notwendige</b> Speicherungen zur Bereitstellung der Anwendung. Optional (nur nach Ihrer Einwilligung) nutzen wir <b>Vercel Speed Insights</b> zur <b>leistungsbezogenen Messung (Core Web Vitals)</b>. Dabei werden laut Anbieter <i>anonyme</i> Messwerte erfasst, die nicht zur Identifizierung einzelner Nutzer:innen verwendet werden.",
+      "table": {
+        "title": "Übersicht",
+        "cols": {
+          "name": "Name",
+          "purpose": "Zweck",
+          "storage": "Speicherort",
+          "duration": "Dauer"
+        }
+      },
+      "rows": {
+        "session_id": {
+          "purpose": "Sitzungsablauf & Zuordnung Evaluation",
+          "storage": "Local Storage",
+          "duration": "ca. 1 Stunde"
+        },
+        "consent": {
+          "purpose": "Merkt Zustimmung/Abwahl (optional)",
+          "storage": "Local Storage + Cookie",
+          "duration": "bis zu 6 Monate"
+        },
+        "eval_state": {
+          "purpose": "Zwischenspeicher Fortschritt (technisch notwendig)",
+          "storage": "Local Storage",
+          "duration": "Sitzung"
+        },
+        "speed": {
+          "purpose": "Leistungsmessung (Core Web Vitals)",
+          "storage": "Erstes-Party-Beacon an <code>/_vercel/speed-insights</code>, in der Regel ohne Cookies",
+          "duration": "Eventbasiert; aggregierte Speicherung beim Anbieter"
+        }
+      },
+      "optin": {
+        "note": "Analytics (Speed Insights) wird <b>nur nach Einwilligung</b> geladen und kann jederzeit widerrufen werden."
+      },
+      "yourConsentTitle": "Deine Einwilligungen:",
+      "noConsentState": "Keine gespeicherten Einwilligungen.",
+      "actions": {
+        "title": "Cookies / Einwilligungen zurücknehmen",
+        "revoke": "Cookies & Einwilligungen widerrufen",
+        "revoked": "Cookies & Einwilligungen widerrufen ✅"
+      },
+      "asOf": "Stand: {date}"
+    },
+    "impressum": {
+      "head": {
+        "title": "Impressum",
+        "description": "Impressum – Forschungsprototyp Bachelorarbeit"
+      },
+      "h1": "Impressum",
+      "badge": "Forschungsprototyp im Rahmen einer Bachelorarbeit (Universität Bremen)",
+      "providerTitle": "Angaben gem. § 5 TMG / § 18 Abs. 2 MStV",
+      "contactTitle": "Kontakt",
+      "responsibleTitle": "Inhaltlich verantwortlich (i.S.d. § 18 Abs. 2 MStV): Ramón de Smit",
+      "responsibleSuffix": " (Adresse wie oben)",
+      "projectTitle": "Projektcharakter",
+      "projectText": "Forschungsprototyp einer Bachelorarbeit. Kein offizielles Auskunfts- oder Beratungsangebot der Universität Bremen.",
+      "liabilityTitle": "Haftung & Urheberrecht",
+      "liabilityP1": "Alle Inhalte wurden mit Sorgfalt erstellt, jedoch ohne Gewähr für Richtigkeit, Vollständigkeit und Aktualität. Für Inhalte externer Links sind ausschließlich deren Betreiber verantwortlich.",
+      "liabilityP2": {
+        "prefix": "Eigene Inhalte und Assets soweit nicht anders gekennzeichnet. Fremd-Bibliotheken gemäß jeweiligen Lizenzen (u.a. SvelteKit, Three.js, Flask) siehe "
+      },
+      "ossLink": "Open Source Software",
+      "asOf": "Stand: {date}"
+    },
+    "privacy": {
+      "head": {
+        "title": "Datenschutzerklärung",
+        "description": "Datenschutz – Bachelorarbeit, keine Tracking-Cookies, EU-Hosting"
+      },
+      "h1": "Datenschutzerklärung",
+      "short": "Kurzfassung: Nur notwendige Speicherung, Evaluationsdaten in der EU, 6 Monate, keine Tracking-Cookies. Optional: anonyme Leistungsanalyse nach Einwilligung.",
+      "ctrlTitle": "Verantwortlicher",
+      "ctrlText": "Ramón de Smit · Kiefernweg 15, 27367 Sottrum, Deutschland · <a href=\"mailto:chillwatchstudios@gmail.com\">chillwatchstudios@gmail.com</a>",
+      "dsbTitle": "Datenschutzbeauftragter (Uni-Ressourcen)",
+      "dsbText": "Kontakt Datenschutzbeauftragter Universität Bremen:",
+      "dsbLinkLabel": "Datenschutz-Team Uni Bremen",
+      "basesTitle": "Zwecke & Rechtsgrundlagen",
+      "bases": {
+        "ops": "<b>Betrieb/Schutz der Website</b> (CDN/Firewall/Hosting/Server-Logs): Art. 6 Abs. 1 lit. f DSGVO",
+        "eval": "<b>Evaluation</b> (Fragebögen, Aufgaben-Eingaben, Chatverlauf der Sitzung, Interaktions-Timings): Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)",
+        "analytics": "<b>Leistungsanalyse (optional)</b> – anonyme Core Web Vitals/Performance-Metriken über <i>Vercel Speed Insights</i> nur nach Einwilligung: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung)",
+        "research": "<b>Forschung/Abschlussarbeit</b>: wissenschaftliche Auswertung, Veröffentlichung nur aggregiert/anonymisiert"
+      },
+      "catsTitle": "Datenkategorien",
+      "cats": {
+        "logs": "<b>Technische Logdaten</b> (IP, Zeitstempel, User-Agent, Request-Metadaten)",
+        "session": "<b>Sitzungskennung</b> (lokal im Browser; zur Ablaufsteuerung, typ. ~1h)",
+        "evaluation": "<b>Evaluationsdaten</b> (Likert/Text-Antworten, Aufgaben-Eingaben wie Datum/CP/Select, Chat-Sitzungsverlauf, Timings)",
+        "audio": "<b>Audio-Verarbeitung (optional)</b>: STT/TTS ausschließlich flüchtig auf Uni-Bremen-Servern (keine Speicherung)",
+        "speed": "<b>Leistungsanalyse (optional)</b> – Route/Seitenpfad, Gerät/Viewport, Browser, Land/Region, Ereigniszeitpunkte sowie Web-Vitals (z. B. LCP, INP, CLS, TTFB); i. d. R. ohne Cookies; Übermittlung per First-Party-Endpoint <code>/_vercel/speed-insights</code>"
+      },
+      "procTitle": "Empfänger / Auftragsverarbeiter",
+      "proc": {
+        "vercel": "Frontend-Hosting",
+        "cloudflare": "CDN/Schutz",
+        "supabase": "AWS eu-central-1 (Frankfurt) – Speicherung der Evaluationsdaten",
+        "uni": "Universität Bremen – Python/Flask-Server, Whisper (STT), Coqui (TTS), ohne persistente Audiospeicherung",
+        "gwdg": "Chat-AI (Llama-Modelle)",
+        "speed": "<b>Vercel Speed Insights</b> (optional, nur nach Einwilligung) – Leistungsanalyse/Web-Vitals"
+      },
+      "procNote": "Es bestehen bzw. werden geeignete vertragliche Garantien genutzt (AVV/SCC), soweit erforderlich.",
+      "transferTitle": "Drittlandtransfer",
+      "transferText": "CDN/Netzwerkverkehr kann global geroutet werden (Cloudflare). Evaluationsdaten selbst liegen in der EU (Frankfurt). Bei optionaler Leistungsanalyse über Vercel Speed Insights können technische Metriken an Vercel übermittelt werden; es werden geeignete Garantien (z. B. AVV/SCC) genutzt, soweit erforderlich.",
+      "retTitle": "Speicherdauer",
+      "retText": "Evaluationsdaten: <b>6 Monate</b>, danach Löschung. Technische Logs: kurzzeitig nach Sicherheitsbedarf. Lokale Sitzungskennung: i. d. R. <b>~1 Stunde</b> für den Ablauf. Leistungsanalyse: aggregiert/statistisch, keine nutzerbezogene Nachverfolgung.",
+      "cookiesTitle": "Cookies/Local Storage",
+      "cookiesText": "Nur technisch notwendige Speicherung (z. B. <code>session_id</code>, Einwilligungs-Flags, Evaluations-Zwischenstand). Keine Tracking-/Marketing-Cookies. <b>Analytics (Speed Insights) wird nur nach Einwilligung aktiviert</b>; die Übermittlung erfolgt in der Regel ohne Cookies. Details siehe",
+      "cookiesLink": "Cookie-Hinweis",
+      "siTitle": "Leistungsanalyse (optional: Vercel Speed Insights)",
+      "siText": "Nach Ihrer Einwilligung erfassen wir anonyme Leistungsdaten (Core Web Vitals) zur Verbesserung der Stabilität und Geschwindigkeit. Die Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden (z. B. über den Cookie-Hinweis oder per E-Mail).",
+      "analyticsTitle": "Analytics / Auswertung",
+      "analyticsText": "Die im Rahmen der Evaluation erfassten Daten (inkl. Chatverläufe der Sitzung) werden <b>anonymisiert</b> ausgewertet, ausschließlich für die Bachelorarbeit.",
+      "volTitle": "Freiwilligkeit, Widerruf & Mindestalter",
+      "volText": "Die Teilnahme an der Evaluation ist freiwillig. Einwilligungen können jederzeit mit Wirkung für die Zukunft widerrufen werden (E-Mail: <a href=\"mailto:chillwatchstudios@gmail.com\">chillwatchstudios@gmail.com</a>, bitte Datum und ggf. Session-ID angeben). Mindestalter für die Teilnahme: <b>16 Jahre</b>.",
+      "rightsTitle": "Betroffenenrechte",
+      "rightsText": "Ihnen stehen Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch sowie Beschwerde bei der zuständigen Aufsichtsbehörde zu.",
+      "asOf": "Stand: {date}"
+    },
+    "terms": {
+      "head": {
+        "title": "Nutzungsbedingungen",
+        "description": "Terms – Forschungsprototyp Bachelorarbeit, Mindestalter {age}"
+      },
+      "h1": "Nutzungsbedingungen",
+      "badge": "Kein offizielles Angebot der Universität Bremen; Forschungsprototyp „as is“.",
+      "projectTitle": "Projektcharakter",
+      "projectText": "Diese Anwendung ist ein Forschungsprototyp im Rahmen einer Bachelorarbeit. Funktionsumfang, Verfügbarkeit und Inhalte können sich jederzeit ändern.",
+      "allowedTitle": "Zulässige Nutzung",
+      "allowed": {
+        "p1": "Keine Eingabe sensibler personenbezogener Daten (z. B. Gesundheits-/Finanzdaten, Matrikelnummern).",
+        "p2": "Kein Missbrauch der Schnittstellen, keine rechtswidrigen Inhalte.",
+        "minAge": "Mindestalter: <b>{age} Jahre</b> für die Teilnahme an der Evaluation."
+      },
+      "disclaimerTitle": "Haftungsausschluss",
+      "disclaimerText": "Antworten können fehlerhaft oder unvollständig sein. Bitte wichtige Informationen zusätzlich auf offiziellen Seiten der Universität Bremen prüfen.",
+      "ossTitle": "Open-Source-Komponenten",
+      "ossText": "Es gelten die jeweiligen Lizenzen der eingebundenen Bibliotheken und Modelle.",
+      "changesTitle": "Änderungen",
+      "changesText": "Die Nutzungsbedingungen können angepasst werden. Die fortgesetzte Nutzung gilt als Zustimmung zu den Änderungen.",
+      "lawTitle": "Anwendbares Recht",
+      "lawText": "Es gilt deutsches Recht.",
+      "asOf": "Stand: {date}",
+      "minAge": "16"
+    },
+    "evalinfo": {
+      "head": {
+        "title": "Evaluation",
+        "description": "Evaluation – Forschungsprototyp Bachelorarbeit"
+      },
+      "title": "Bedingungen & Informationen zur Evaluation",
+      "table": {
+        "head": { "point": "Punkt", "desc": "Beschreibung" }
+      },
+      "rows": {
+        "Zweck": "Zweck: Evaluation eines Prototyps im Rahmen einer Bachelorarbeit (kein offizielles Angebot der Universität).",
+        "DatenSend": "Ihre Daten und der Chatverlauf werden erst gesendet, wenn Sie am Ende auf „Submit 📨“ klicken.",
+        "Speicherdauer": "Speicherdauer: bis Abschluss der Auswertung; danach Löschung.",
+        "KeinePersonen": "Bitte keine personenbezogenen Daten eingeben (z. B. Name, Matrikelnummer, Gesundheits-/Finanzdaten).",
+        "Fehlerhinweis": "Antworten des Systems können fehlerhaft oder unvollständig sein – bitte eigenständig prüfen.",
+        "Site": "Bitte die Seite während der Evaluation nicht verlassen (kein Reload/Zurück), damit der Ablauf konsistent bleibt (und wir keine Cookies speichern müssen).",
+        "desktop": "Ich nutze Desktop oder Laptop (mobile Darstellung nicht unterstützt).",
+        "sound": "Sound ist optional; bei aktivem Sound kann der Avatar sprechen.",
+        "dauer": "Dauer: ca. 10 Minuten.",
+        "Daten": {
+          "before": "Ihr <b>Chatverlauf</b> der Evaluationssitzung & Ihre <b>Antworten</b> werden ausschließlich zur Auswertung dieser Bachelorarbeit in der ",
+          "awsRegion": "AWS-Region eu-central-1 (Frankfurt)",
+          "after": " gespeichert. Diese Daten werden anonymisiert ausgewertet, und in die Gesamtergebnisse einberechnet und öffentlich unter traustdumir/results veröffentlicht. Dein Chatverlauf wird niemals irgendwo veröffentlich werden."
+        },
+        "DatenLoeschen": {
+          "beforeEmail": "Datenrücknahme/Löschung: jederzeit per E-Mail an",
+          "afterEmailPrefix": "(bitte Datum und – falls vorhanden – Session-ID=",
+          "afterEmailSuffix": " angeben)."
+        },
+        "Hinsweis": {
+          "before": "Das Tool kannst du jederzeit oben mit",
+          "after": " minimieren und später wieder öffnen (Fortschritt bleibt erhalten)."
+        }
+      },
+      "asOf": "Stand: {date}"
+    },
+    "systempage": {
+    "head": {
+      "title": "Systemanforderungen",
+      "description": "Systemanforderungen für die Web-App und den 3D-Avatar"
+    },
+    "title": "Systemanforderungen",
+    "badge": "Web-App Forschungsprototyp – Angaben ohne Gewähr.",
+    "browser": {
+      "title": "Browser",
+      "item1": "<b>JavaScript</b> erforderlich, <b>Brave Shields</b> oder ähnliche Blocker bitte ausschalten!",
+      "item2": "Chrome/Edge ≥ 120, Firefox ≥ 120, Safari ≥ 16",
+      "item3": "Sprachumschaltung/Internationalisierung: Chrome 38+, Edge 16+, Firefox 13+, Opera 25+, Safari 8+.",
+      "item4": "Hardwarebeschleunigung aktiv, Cookies & LocalStorage erlaubt",
+      "item5": "WebGL 2 erforderlich, WebGPU optional"
+    },
+    "text": {
+      "title": "Text-Interface (ohne 3D)",
+      "item1": "CPU: 2-Kern 64-Bit",
+      "item2": "RAM: ≥ 4 GB",
+      "item3": "GPU: beliebig mit Hardwarebeschleunigung",
+      "item4": "Display: ≥ 1280×720",
+      "item5": "Internet: ≥ 5 Mbit/s"
+    },
+    "avatarLow": {
+      "title": "3D-Avatar (Low/Standard)",
+      "item1": "CPU: ≥ 4 Kerne (z. B. Intel 10.–13. Gen, Ryzen 3/5) oder Apple-M-Serie",
+      "item2": "RAM: ≥ 8 GB",
+      "item3": "GPU: iGPU der letzten Jahre (Intel UHD/Iris Xe, AMD Vega) oder dGPU ab GTX 1050/RX 560, ≥ 1.5 GB VRAM",
+      "item4": "Display: 1280×720 bei ~30 FPS"
+    },
+    "recommended": {
+      "title": "Empfohlen (flüssig 1080p)",
+      "item1": "CPU: ≥ 6 Kerne",
+      "item2": "RAM: ≥ 16 GB",
+      "item3": "GPU: RTX 2060/RX 6600/Iris Xe MAX oder Apple M1/M2, ≥ 4 GB VRAM",
+      "item4": "Display: 1920×1080 bei ~60 FPS"
+    },
+    "unsupported": {
+      "title": "Nicht unterstützt",
+      "item1": "Browser ohne WebGL 2/Hardwarebeschleunigung",
+      "item2": "Sehr alte iGPU/dGPU (~>10 Jahre) oder starker Energiesparmodus"
+    },
+    "floor": {
+      "title": "Getestete Untergrenze",
+      "item1": "Lenovo V15 G4 IRU, Windows 11 Home 24H2",
+      "item2": "Intel Core i5-13420H (8 Kerne/12 Threads)",
+      "item3": "Intel UHD Graphics (~2 GB geteilter Grafikspeicher)",
+      "item4": "24 GB RAM"
+    },
+    "notes": {
+      "title": "Hinweise",
+      "item1": "Netzteil anschließen, Energiesparen aus, unnötige Tabs/Overlays schließen",
+      "item2": "Bei Rucklern „Lite-Modus“ aktivieren oder Text-Interface nutzen"
+    },
+    "asOf": "Stand: {date}"
+  }
+  }
+}

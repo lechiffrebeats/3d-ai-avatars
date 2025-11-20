@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# stable diffusion dear lord
+stable-diffusion-xl-base-1.0/
+static/sd.webui/
+PythonServer/outputs/
+sd.webui/
+# ------------------------------------------------------
+
+# blender stuff
+*.glb
+*.gltf
+*.fbx
+models/
+*.blend
+*.glb.gz
+*.ktx2
+*.hdr
+stable-diffusion-xl-base-1.0/
+static/sd.webui/
+sd.webui/
+models/
+*.glb
+*.gltf
+*.fbx
+*.blend
+*.glb.gz
+*.ktx2
+*.hdr
+*.mp4
+*.mov
+*.zip
+*.7z
+*.rar
+*.wav
+*.onnx
+*.pt
+
+# enviroments and modules
+.venv/
+venv/
+env/
+.env
+
+
+
+# fb
+.firebase
+
+# Svelte
+.svelte-kit
+.svelte-kit/
+
+# new 
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+.svelte-kit/
+build/
+.svelte-kit-output/
+
+.vercel/
+.vercel_build_output/
+.netlify/
+
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+coverage/
+.playwright/
+.vercel
+
+
+.playwright/
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml

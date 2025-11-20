@@ -1,0 +1,1640 @@
+{
+  "@dimforge/rapier3d-compat@0.12.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/dimforge/rapier.js",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@dimforge\\rapier3d-compat",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@dimforge\\rapier3d-compat\\LICENSE"
+  },
+  "@esbuild/win32-x64@0.19.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/evanw/esbuild",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-i18n\\node_modules\\@esbuild\\win32-x64",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-i18n\\node_modules\\@esbuild\\win32-x64\\README.md"
+  },
+  "@esbuild/win32-x64@0.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/evanw/esbuild",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esbuild\\node_modules\\@esbuild\\win32-x64",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esbuild\\node_modules\\@esbuild\\win32-x64\\README.md"
+  },
+  "@fontsource/fira-mono@5.2.6": {
+    "licenses": "OFL-1.1",
+    "repository": "https://github.com/fontsource/font-files",
+    "publisher": "Google Inc.",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@fontsource\\fira-mono",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@fontsource\\fira-mono\\LICENSE"
+  },
+  "@formatjs/ecma402-abstract@2.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/formatjs/formatjs",
+    "publisher": "Long Ho",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\ecma402-abstract",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\ecma402-abstract\\LICENSE.md"
+  },
+  "@formatjs/fast-memoize@2.2.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/formatjs/formatjs",
+    "publisher": "Long Ho",
+    "email": "holevietlong@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\fast-memoize",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\fast-memoize\\LICENSE.md"
+  },
+  "@formatjs/icu-messageformat-parser@2.11.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/formatjs/formatjs",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\icu-messageformat-parser",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\icu-messageformat-parser\\LICENSE.md"
+  },
+  "@formatjs/icu-skeleton-parser@1.8.14": {
+    "licenses": "MIT",
+    "repository": "https://github.com/formatjs/formatjs",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\icu-skeleton-parser",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\icu-skeleton-parser\\LICENSE.md"
+  },
+  "@formatjs/intl-localematcher@0.6.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/formatjs/formatjs",
+    "publisher": "Long Ho",
+    "email": "holevietlong@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\intl-localematcher",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@formatjs\\intl-localematcher\\LICENSE.md"
+  },
+  "@isaacs/cliui@8.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/cliui",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@isaacs\\cliui",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@isaacs\\cliui\\LICENSE.txt"
+  },
+  "@isaacs/fs-minipass@4.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/fs-minipass",
+    "publisher": "Isaac Z. Schlueter",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@isaacs\\fs-minipass",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@isaacs\\fs-minipass\\LICENSE"
+  },
+  "@jridgewell/gen-mapping@0.3.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/sourcemaps",
+    "publisher": "Justin Ridgewell",
+    "email": "justin@ridgewell.name",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\gen-mapping",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\gen-mapping\\LICENSE"
+  },
+  "@jridgewell/remapping@2.3.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/sourcemaps",
+    "publisher": "Justin Ridgewell",
+    "email": "justin@ridgewell.name",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\remapping",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\remapping\\LICENSE"
+  },
+  "@jridgewell/resolve-uri@3.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/resolve-uri",
+    "publisher": "Justin Ridgewell",
+    "email": "justin@ridgewell.name",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\resolve-uri",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\resolve-uri\\LICENSE"
+  },
+  "@jridgewell/sourcemap-codec@1.5.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/sourcemaps",
+    "publisher": "Justin Ridgewell",
+    "email": "justin@ridgewell.name",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\sourcemap-codec",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\sourcemap-codec\\LICENSE"
+  },
+  "@jridgewell/trace-mapping@0.3.30": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/sourcemaps",
+    "publisher": "Justin Ridgewell",
+    "email": "justin@ridgewell.name",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\trace-mapping",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@jridgewell\\trace-mapping\\LICENSE"
+  },
+  "@mapbox/node-pre-gyp@2.0.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/mapbox/node-pre-gyp",
+    "publisher": "Dane Springmeyer",
+    "email": "dane@mapbox.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@mapbox\\node-pre-gyp",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@mapbox\\node-pre-gyp\\LICENSE"
+  },
+  "@needle-tools/gltf-progressive@3.3.1": {
+    "licenses": "Custom: https://developer.mozilla.org/en-US/docs/Web/API/NetworkInformation/saveData",
+    "repository": "https://github.com/needle-tools/needle-engine-support",
+    "publisher": "Needle",
+    "email": "hi@needle.tools",
+    "url": "https://needle.tools/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@needle-tools\\gltf-progressive",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@needle-tools\\gltf-progressive\\README.md"
+  },
+  "@pkgjs/parseargs@0.11.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pkgjs/parseargs",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@pkgjs\\parseargs",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@pkgjs\\parseargs\\LICENSE"
+  },
+  "@polka/url@1.0.0-next.29": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/polka",
+    "publisher": "Luke Edwards",
+    "email": "luke@lukeed.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@polka\\url",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@polka\\url\\readme.md"
+  },
+  "@rollup/pluginutils@5.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rollup/plugins",
+    "publisher": "Rich Harris",
+    "email": "richard.a.harris@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@rollup\\pluginutils",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@rollup\\pluginutils\\LICENSE"
+  },
+  "@rollup/rollup-win32-x64-msvc@4.50.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rollup/rollup",
+    "publisher": "Lukas Taegert-Atkinson",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\rollup\\node_modules\\@rollup\\rollup-win32-x64-msvc",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\rollup\\node_modules\\@rollup\\rollup-win32-x64-msvc\\README.md"
+  },
+  "@standard-schema/spec@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/standard-schema/standard-schema",
+    "publisher": "Colin McDonnell",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@standard-schema\\spec",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@standard-schema\\spec\\LICENSE"
+  },
+  "@supabase/auth-js@2.71.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/supabase/auth-js",
+    "publisher": "Supabase",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\auth-js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\auth-js\\LICENSE"
+  },
+  "@supabase/functions-js@2.4.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/supabase/functions-js",
+    "publisher": "Supabase",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\functions-js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\functions-js\\LICENSE"
+  },
+  "@supabase/node-fetch@2.6.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/supabase/node-fetch",
+    "publisher": "David Frank",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\node-fetch",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\node-fetch\\LICENSE.md"
+  },
+  "@supabase/postgrest-js@1.21.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/supabase/postgrest-js",
+    "publisher": "Supabase",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\postgrest-js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\postgrest-js\\LICENSE"
+  },
+  "@supabase/realtime-js@2.15.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/supabase/realtime-js",
+    "publisher": "Supabase",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\realtime-js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\realtime-js\\LICENSE.md"
+  },
+  "@supabase/storage-js@2.11.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/supabase/storage-js",
+    "publisher": "Supabase",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\storage-js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\storage-js\\LICENSE"
+  },
+  "@supabase/supabase-js@2.57.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/supabase/supabase-js",
+    "publisher": "Supabase",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\supabase-js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@supabase\\supabase-js\\LICENSE"
+  },
+  "@sveltejs/acorn-typescript@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sveltejs/acorn-typescript",
+    "publisher": "tyrealhu and the Svelte team",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\acorn-typescript",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\acorn-typescript\\LICENSE.md"
+  },
+  "@sveltejs/adapter-vercel@5.10.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sveltejs/kit",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\adapter-vercel",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\adapter-vercel\\LICENSE"
+  },
+  "@sveltejs/kit@2.37.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sveltejs/kit",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\kit",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\kit\\LICENSE"
+  },
+  "@sveltejs/vite-plugin-svelte-inspector@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sveltejs/vite-plugin-svelte",
+    "publisher": "dominikg",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\vite-plugin-svelte-inspector",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\vite-plugin-svelte-inspector\\LICENSE"
+  },
+  "@sveltejs/vite-plugin-svelte@5.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sveltejs/vite-plugin-svelte",
+    "publisher": "dominikg",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\vite-plugin-svelte",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@sveltejs\\vite-plugin-svelte\\LICENSE"
+  },
+  "@tweenjs/tween.js@23.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tweenjs/tween.js",
+    "publisher": "tween.js contributors",
+    "url": "https://github.com/tweenjs/tween.js/graphs/contributors",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@tweenjs\\tween.js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@tweenjs\\tween.js\\LICENSE"
+  },
+  "@types/cookie@0.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\cookie",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\cookie\\LICENSE"
+  },
+  "@types/estree@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\estree",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\estree\\LICENSE"
+  },
+  "@types/hast@3.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\hast",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\hast\\LICENSE"
+  },
+  "@types/node@24.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\node",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\node\\LICENSE"
+  },
+  "@types/phoenix@1.6.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\phoenix",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\phoenix\\LICENSE"
+  },
+  "@types/stats.js@0.17.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\stats.js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\stats.js\\LICENSE"
+  },
+  "@types/three@0.180.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\three",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\three\\LICENSE"
+  },
+  "@types/trusted-types@2.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\trusted-types",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\trusted-types\\LICENSE"
+  },
+  "@types/unist@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\unist",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\unist\\LICENSE"
+  },
+  "@types/webxr@0.5.23": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\webxr",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\webxr\\LICENSE"
+  },
+  "@types/ws@8.18.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\ws",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@types\\ws\\LICENSE"
+  },
+  "@ungap/structured-clone@1.3.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/ungap/structured-clone",
+    "publisher": "Andrea Giammarchi",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@ungap\\structured-clone",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@ungap\\structured-clone\\LICENSE"
+  },
+  "@vercel/nft@0.30.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/nft",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@vercel\\nft",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@vercel\\nft\\LICENSE"
+  },
+  "@vercel/speed-insights@1.2.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/vercel/speed-insights",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@vercel\\speed-insights",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@vercel\\speed-insights\\LICENSE"
+  },
+  "@webgpu/types@0.1.64": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/gpuweb/types",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@webgpu\\types",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\@webgpu\\types\\LICENSE"
+  },
+  "abbrev@3.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/abbrev-js",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\abbrev",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\abbrev\\LICENSE"
+  },
+  "acorn-import-attributes@1.9.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/xtuc/acorn-import-attributes",
+    "publisher": "Sven Sauleau",
+    "email": "sven@sauleau.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\acorn-import-attributes",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\acorn-import-attributes\\LICENSE"
+  },
+  "acorn@8.15.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/acornjs/acorn",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\acorn",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\acorn\\LICENSE"
+  },
+  "agent-base@7.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/proxy-agents",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\agent-base",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\agent-base\\LICENSE"
+  },
+  "ansi-regex@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width-cjs\\node_modules\\ansi-regex",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width-cjs\\node_modules\\ansi-regex\\license"
+  },
+  "ansi-regex@6.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ansi-regex",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ansi-regex\\license"
+  },
+  "ansi-styles@4.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\wrap-ansi-cjs\\node_modules\\ansi-styles",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\wrap-ansi-cjs\\node_modules\\ansi-styles\\license"
+  },
+  "ansi-styles@6.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ansi-styles",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ansi-styles\\license"
+  },
+  "aria-query@5.3.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/A11yance/aria-query",
+    "publisher": "Jesse Beach",
+    "email": "splendidnoise@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\aria-query",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\aria-query\\LICENSE"
+  },
+  "async-sema@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/async-sema",
+    "publisher": "Olli Vanhoja",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\async-sema",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\async-sema\\license.md"
+  },
+  "asynckit@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexindigo/asynckit",
+    "publisher": "Alex Indigo",
+    "email": "iam@alexindigo.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\asynckit",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\asynckit\\LICENSE"
+  },
+  "axios@1.11.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/axios/axios",
+    "publisher": "Matt Zabriskie",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\axios",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\axios\\LICENSE"
+  },
+  "axobject-query@4.1.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/A11yance/axobject-query",
+    "publisher": "Jesse Beach",
+    "email": "splendidnoise@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\axobject-query",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\axobject-query\\LICENSE"
+  },
+  "balanced-match@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/balanced-match",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\balanced-match",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\balanced-match\\LICENSE.md"
+  },
+  "bindings@1.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/node-bindings",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://tootallnate.net",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\bindings",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\bindings\\LICENSE.md"
+  },
+  "brace-expansion@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\brace-expansion",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\brace-expansion\\LICENSE"
+  },
+  "call-bind-apply-helpers@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/call-bind-apply-helpers",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\call-bind-apply-helpers",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\call-bind-apply-helpers\\LICENSE"
+  },
+  "chokidar@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/chokidar",
+    "publisher": "Paul Miller",
+    "url": "https://paulmillr.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\chokidar",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\chokidar\\LICENSE"
+  },
+  "chownr@3.0.0": {
+    "licenses": "BlueOak-1.0.0",
+    "repository": "https://github.com/isaacs/chownr",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\chownr",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\chownr\\LICENSE.md"
+  },
+  "cli-color@2.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/cli-color",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\cli-color",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\cli-color\\LICENSE"
+  },
+  "clsx@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/clsx",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\clsx",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\clsx\\license"
+  },
+  "color-convert@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Qix-/color-convert",
+    "publisher": "Heather Arthur",
+    "email": "fayearthur@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\color-convert",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\color-convert\\LICENSE"
+  },
+  "color-name@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/colorjs/color-name",
+    "publisher": "DY",
+    "email": "dfcreative@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\color-name",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\color-name\\LICENSE"
+  },
+  "combined-stream@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-combined-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\combined-stream",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\combined-stream\\License"
+  },
+  "consola@3.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/unjs/consola",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\consola",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\consola\\LICENSE"
+  },
+  "cookie@0.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/cookie",
+    "publisher": "Roman Shtylman",
+    "email": "shtylman@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\cookie",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\cookie\\LICENSE"
+  },
+  "cross-spawn@7.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/moxystudio/node-cross-spawn",
+    "publisher": "André Cruz",
+    "email": "andre@moxy.studio",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\cross-spawn",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\cross-spawn\\LICENSE"
+  },
+  "d@1.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/d",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\d",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\d\\LICENSE"
+  },
+  "debug@4.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/debug-js/debug",
+    "publisher": "Josh Junon",
+    "url": "https://github.com/qix-",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\debug",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\debug\\LICENSE"
+  },
+  "decimal.js@10.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/MikeMcl/decimal.js",
+    "publisher": "Michael Mclaughlin",
+    "email": "M8ch88l@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\decimal.js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\decimal.js\\LICENCE.md"
+  },
+  "deepmerge@4.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TehShrike/deepmerge",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\deepmerge",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\deepmerge\\license.txt"
+  },
+  "delayed-stream@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-delayed-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\delayed-stream",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\delayed-stream\\License"
+  },
+  "detect-libc@2.0.4": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/lovell/detect-libc",
+    "publisher": "Lovell Fuller",
+    "email": "npm@lovell.info",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\detect-libc",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\detect-libc\\LICENSE"
+  },
+  "devalue@5.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sveltejs/devalue",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\devalue",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\devalue\\LICENSE"
+  },
+  "dompurify@3.2.6": {
+    "licenses": "(MPL-2.0 OR Apache-2.0)",
+    "repository": "https://github.com/cure53/DOMPurify",
+    "publisher": "Dr.-Ing. Mario Heiderich, Cure53",
+    "email": "mario@cure53.de",
+    "url": "https://cure53.de/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\dompurify",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\dompurify\\LICENSE"
+  },
+  "dunder-proto@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/dunder-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\dunder-proto",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\dunder-proto\\LICENSE"
+  },
+  "eastasianwidth@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/komagata/eastasianwidth",
+    "publisher": "Masaki Komagata",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\eastasianwidth",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\eastasianwidth\\README.md"
+  },
+  "emoji-regex@8.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/emoji-regex",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width-cjs\\node_modules\\emoji-regex",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width-cjs\\node_modules\\emoji-regex\\LICENSE-MIT.txt"
+  },
+  "emoji-regex@9.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/emoji-regex",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\emoji-regex",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\emoji-regex\\LICENSE-MIT.txt"
+  },
+  "es-define-property@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-define-property",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es-define-property",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es-define-property\\LICENSE"
+  },
+  "es-errors@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-errors",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es-errors",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es-errors\\LICENSE"
+  },
+  "es-object-atoms@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/es-object-atoms",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es-object-atoms",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es-object-atoms\\LICENSE"
+  },
+  "es-set-tostringtag@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/es-set-tostringtag",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es-set-tostringtag",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es-set-tostringtag\\LICENSE"
+  },
+  "es5-ext@0.10.64": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/es5-ext",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es5-ext",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es5-ext\\LICENSE"
+  },
+  "es6-iterator@2.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/medikoo/es6-iterator",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es6-iterator",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es6-iterator\\LICENSE"
+  },
+  "es6-symbol@3.1.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/es6-symbol",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es6-symbol",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es6-symbol\\LICENSE"
+  },
+  "es6-weak-map@2.0.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/es6-weak-map",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es6-weak-map",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\es6-weak-map\\LICENSE"
+  },
+  "esbuild@0.19.12": {
+    "licenses": "MIT",
+    "repository": "https://github.com/evanw/esbuild",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-i18n\\node_modules\\esbuild",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-i18n\\node_modules\\esbuild\\LICENSE.md"
+  },
+  "esbuild@0.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/evanw/esbuild",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esbuild",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esbuild\\LICENSE.md"
+  },
+  "esm-env@1.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/benmccann/esm-env",
+    "publisher": "Ben McCann",
+    "url": "https://www.benmccann.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esm-env",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esm-env\\LICENSE"
+  },
+  "esniff@2.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/esniff",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esniff",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esniff\\LICENSE"
+  },
+  "esrap@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sveltejs/esrap",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esrap",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\esrap\\LICENSE"
+  },
+  "estree-walker@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Rich-Harris/estree-walker",
+    "publisher": "Rich Harris",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\estree-walker",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\estree-walker\\LICENSE"
+  },
+  "event-emitter@0.3.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/medikoo/event-emitter",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\event-emitter",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\event-emitter\\LICENSE"
+  },
+  "ext@1.7.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/es5-ext.git#ext",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ext",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ext\\LICENSE"
+  },
+  "fdir@6.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/thecodrr/fdir",
+    "publisher": "thecodrr",
+    "email": "thecodrr@protonmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\fdir",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\fdir\\LICENSE"
+  },
+  "fflate@0.8.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/101arrowz/fflate",
+    "publisher": "Arjun Barrett",
+    "email": "arjunbarrett@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\fflate",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\fflate\\LICENSE"
+  },
+  "file-uri-to-path@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/file-uri-to-path",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\file-uri-to-path",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\file-uri-to-path\\LICENSE"
+  },
+  "follow-redirects@1.15.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/follow-redirects/follow-redirects",
+    "publisher": "Ruben Verborgh",
+    "email": "ruben@verborgh.org",
+    "url": "https://ruben.verborgh.org/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\follow-redirects",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\follow-redirects\\LICENSE"
+  },
+  "foreground-child@3.3.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/tapjs/foreground-child",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\foreground-child",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\foreground-child\\LICENSE"
+  },
+  "form-data@4.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/form-data/form-data",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\form-data",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\form-data\\License"
+  },
+  "function-bind@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/function-bind",
+    "publisher": "Raynos",
+    "email": "raynos2@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\function-bind",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\function-bind\\LICENSE"
+  },
+  "get-intrinsic@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-intrinsic",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\get-intrinsic",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\get-intrinsic\\LICENSE"
+  },
+  "get-proto@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/get-proto",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\get-proto",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\get-proto\\LICENSE"
+  },
+  "glob@10.4.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "https://blog.izs.me/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\glob",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\glob\\LICENSE"
+  },
+  "globalyzer@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/terkelg/globalyzer",
+    "publisher": "Terkel Gjervig",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\globalyzer",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\globalyzer\\license"
+  },
+  "globrex@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/terkelg/globrex",
+    "publisher": "Terkel Gjervig",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\globrex",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\globrex\\license"
+  },
+  "gltfpack@0.25.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeux/meshoptimizer",
+    "publisher": "Arseny Kapoulkine",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\gltfpack",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\gltfpack\\LICENSE.md"
+  },
+  "gopd@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ljharb/gopd",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\gopd",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\gopd\\LICENSE"
+  },
+  "graceful-fs@4.2.11": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-graceful-fs",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\graceful-fs",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\graceful-fs\\LICENSE"
+  },
+  "has-symbols@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-symbols",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\has-symbols",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\has-symbols\\LICENSE"
+  },
+  "has-tostringtag@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/has-tostringtag",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "url": "http://ljharb.codes",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\has-tostringtag",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\has-tostringtag\\LICENSE"
+  },
+  "hasown@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/hasOwn",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\hasown",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\hasown\\LICENSE"
+  },
+  "hast-util-is-element@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/hast-util-is-element",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\hast-util-is-element",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\hast-util-is-element\\license"
+  },
+  "https-proxy-agent@7.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/TooTallNate/proxy-agents",
+    "publisher": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\https-proxy-agent",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\https-proxy-agent\\LICENSE"
+  },
+  "intl-messageformat@10.7.16": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/formatjs/formatjs",
+    "publisher": "Eric Ferraiuolo",
+    "email": "eferraiuolo@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\intl-messageformat",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\intl-messageformat\\LICENSE.md"
+  },
+  "is-absolute-url@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-absolute-url",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\is-absolute-url",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\is-absolute-url\\license"
+  },
+  "is-fullwidth-code-point@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-fullwidth-code-point",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\is-fullwidth-code-point",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\is-fullwidth-code-point\\license"
+  },
+  "is-promise@2.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/then/is-promise",
+    "publisher": "ForbesLindesay",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\is-promise",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\is-promise\\LICENSE"
+  },
+  "is-reference@3.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Rich-Harris/is-reference",
+    "publisher": "Rich Harris",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\is-reference",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\is-reference\\README.md"
+  },
+  "isexe@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/isexe",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\isexe",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\isexe\\LICENSE"
+  },
+  "jackspeak@3.4.3": {
+    "licenses": "BlueOak-1.0.0",
+    "repository": "https://github.com/isaacs/jackspeak",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\jackspeak",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\jackspeak\\LICENSE.md"
+  },
+  "kleur@4.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/kleur",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\kleur",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\kleur\\license"
+  },
+  "locate-character@3.0.0": {
+    "licenses": "MIT",
+    "repository": "git+https://gitlab.com/Rich-Harris/locate-character",
+    "publisher": "Rich Harris",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\locate-character",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\locate-character\\README.md"
+  },
+  "lru-cache@10.4.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-lru-cache",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\lru-cache",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\lru-cache\\LICENSE"
+  },
+  "lru-queue@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/medikoo/lru-queue",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\lru-queue",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\lru-queue\\LICENCE"
+  },
+  "magic-string@0.30.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rich-harris/magic-string",
+    "publisher": "Rich Harris",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\magic-string",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\magic-string\\LICENSE"
+  },
+  "marked@16.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/markedjs/marked",
+    "publisher": "Christopher Jeffrey",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\marked",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\marked\\LICENSE.md"
+  },
+  "math-intrinsics@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/es-shims/math-intrinsics",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\math-intrinsics",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\math-intrinsics\\LICENSE"
+  },
+  "memoizee@0.4.17": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/memoizee",
+    "publisher": "Mariusz Nowak",
+    "email": "medikoo@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\memoizee",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\memoizee\\LICENSE"
+  },
+  "meshoptimizer@0.22.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zeux/meshoptimizer",
+    "publisher": "Arseny Kapoulkine",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\meshoptimizer",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\meshoptimizer\\LICENSE.md"
+  },
+  "mime-db@1.52.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mime-db",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mime-db\\LICENSE"
+  },
+  "mime-types@2.1.35": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-types",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mime-types",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mime-types\\LICENSE"
+  },
+  "minimatch@9.0.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minimatch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\minimatch",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\minimatch\\LICENSE"
+  },
+  "minipass@7.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minipass",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\minipass",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\minipass\\LICENSE"
+  },
+  "minizlib@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/minizlib",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\minizlib",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\minizlib\\LICENSE"
+  },
+  "mitt@3.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/developit/mitt",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mitt",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mitt\\LICENSE"
+  },
+  "mkdirp@3.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/node-mkdirp",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mkdirp",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mkdirp\\LICENSE"
+  },
+  "mri@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/mri",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mri",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mri\\license.md"
+  },
+  "mrmime@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/mrmime",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mrmime",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\mrmime\\license"
+  },
+  "ms@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/ms",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ms",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ms\\license.md"
+  },
+  "nanoid@3.3.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ai/nanoid",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\nanoid",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\nanoid\\LICENSE"
+  },
+  "next-tick@1.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/next-tick",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\next-tick",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\next-tick\\LICENSE"
+  },
+  "node-fetch@2.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bitinn/node-fetch",
+    "publisher": "David Frank",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\node-fetch",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\node-fetch\\LICENSE.md"
+  },
+  "node-gyp-build@4.8.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/prebuild/node-gyp-build",
+    "publisher": "Mathias Buus",
+    "url": "@mafintosh",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\node-gyp-build",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\node-gyp-build\\LICENSE"
+  },
+  "nopt@8.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/nopt",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\nopt",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\nopt\\LICENSE"
+  },
+  "package-json-from-dist@1.0.1": {
+    "licenses": "BlueOak-1.0.0",
+    "repository": "https://github.com/isaacs/package-json-from-dist",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "https://izs.me",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\package-json-from-dist",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\package-json-from-dist\\LICENSE.md"
+  },
+  "path-key@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-key",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\path-key",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\path-key\\license"
+  },
+  "path-scurry@1.11.1": {
+    "licenses": "BlueOak-1.0.0",
+    "repository": "https://github.com/isaacs/path-scurry",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "https://blog.izs.me",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\path-scurry",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\path-scurry\\LICENSE.md"
+  },
+  "picocolors@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/alexeyraspopov/picocolors",
+    "publisher": "Alexey Raspopov",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\picocolors",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\picocolors\\LICENSE"
+  },
+  "picomatch@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromatch/picomatch",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\picomatch",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\picomatch\\LICENSE"
+  },
+  "postcss@8.5.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/postcss/postcss",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\postcss",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\postcss\\LICENSE"
+  },
+  "proxy-from-env@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Rob--W/proxy-from-env",
+    "publisher": "Rob Wu",
+    "email": "rob@robwu.nl",
+    "url": "https://robwu.nl/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\proxy-from-env",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\proxy-from-env\\LICENSE"
+  },
+  "readdirp@4.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/paulmillr/readdirp",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "thlorenz.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\readdirp",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\readdirp\\LICENSE"
+  },
+  "rehype-external-links@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rehypejs/rehype-external-links",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\rehype-external-links",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\rehype-external-links\\license"
+  },
+  "resolve-from@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/resolve-from",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\resolve-from",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\resolve-from\\license"
+  },
+  "rollup@4.50.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rollup/rollup",
+    "publisher": "Rich Harris",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\rollup",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\rollup\\LICENSE.md"
+  },
+  "sade@1.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/sade",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\sade",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\sade\\license"
+  },
+  "semver@7.7.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\semver",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\semver\\LICENSE"
+  },
+  "set-cookie-parser@2.7.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nfriedly/set-cookie-parser",
+    "publisher": "Nathan Friedly",
+    "url": "http://nfriedly.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\set-cookie-parser",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\set-cookie-parser\\LICENSE"
+  },
+  "shebang-command@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kevva/shebang-command",
+    "publisher": "Kevin Mårtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\shebang-command",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\shebang-command\\license"
+  },
+  "shebang-regex@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/shebang-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\shebang-regex",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\shebang-regex\\license"
+  },
+  "signal-exit@4.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/tapjs/signal-exit",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\signal-exit",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\signal-exit\\LICENSE.txt"
+  },
+  "sirv@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/sirv",
+    "publisher": "Luke Edwards",
+    "email": "luke@lukeed.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\sirv",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\sirv\\readme.md"
+  },
+  "source-map-js@1.2.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/7rulnik/source-map-js",
+    "publisher": "Valentin 7rulnik Semirulnik",
+    "email": "v7rulnik@gmail.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\source-map-js",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\source-map-js\\LICENSE"
+  },
+  "space-separated-tokens@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/space-separated-tokens",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\space-separated-tokens",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\space-separated-tokens\\license"
+  },
+  "string-width@4.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/string-width",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width-cjs",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width-cjs\\license"
+  },
+  "string-width@5.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/string-width",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width\\license"
+  },
+  "strip-ansi@6.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/strip-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width-cjs\\node_modules\\strip-ansi",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\string-width-cjs\\node_modules\\strip-ansi\\license"
+  },
+  "strip-ansi@7.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/strip-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\strip-ansi",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\strip-ansi\\license"
+  },
+  "svelte-check@4.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sveltejs/language-tools",
+    "publisher": "The Svelte Community",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-check",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-check\\LICENSE"
+  },
+  "svelte-i18n@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kaisermann/svelte-i18n",
+    "publisher": "Christian Kaisermann",
+    "email": "christian@kaisermann.me",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-i18n",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-i18n\\LICENSE"
+  },
+  "svelte-loading-spinners@0.3.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/schum123/svelte-loading-spinners",
+    "publisher": "Eric Schumertl",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-loading-spinners",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte-loading-spinners\\LICENSE"
+  },
+  "svelte@5.38.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sveltejs/svelte",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\svelte\\LICENSE.md"
+  },
+  "tar@7.4.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-tar",
+    "publisher": "Isaac Z. Schlueter",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\tar",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\tar\\LICENSE"
+  },
+  "thesisbsc@0.0.1": {
+    "licenses": "UNLICENSED",
+    "private": true,
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\LICENSE"
+  },
+  "three-gltf-extensions@0.0.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/takahirox/three-gltf-extensions",
+    "publisher": "Takahiro",
+    "email": "hogehoge@gachapin.jp",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\three-gltf-extensions",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\three-gltf-extensions\\LICENSE"
+  },
+  "three@0.165.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mrdoob/three.js",
+    "publisher": "mrdoob",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\three",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\three\\LICENSE"
+  },
+  "timers-ext@0.1.8": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/timers-ext",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "http://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\timers-ext",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\timers-ext\\LICENSE"
+  },
+  "tiny-glob@0.2.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/terkelg/tiny-glob",
+    "publisher": "Terkel Gjervig",
+    "email": "terkel@terkel.com",
+    "url": "https://terkel.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\tiny-glob",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\tiny-glob\\license"
+  },
+  "tinyglobby@0.2.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/SuperchupuDev/tinyglobby",
+    "publisher": "Superchupu",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\tinyglobby",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\tinyglobby\\LICENSE"
+  },
+  "totalist@3.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lukeed/totalist",
+    "publisher": "Luke Edwards",
+    "email": "luke.edwards05@gmail.com",
+    "url": "https://lukeed.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\totalist",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\totalist\\license"
+  },
+  "tr46@0.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Sebmaster/tr46.js",
+    "publisher": "Sebastian Mayr",
+    "email": "npm@smayr.name",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\tr46"
+  },
+  "tslib@2.8.1": {
+    "licenses": "0BSD",
+    "repository": "https://github.com/Microsoft/tslib",
+    "publisher": "Microsoft Corp.",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\tslib",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\tslib\\LICENSE.txt"
+  },
+  "type@2.7.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/medikoo/type",
+    "publisher": "Mariusz Nowak",
+    "email": "medyk@medikoo.com",
+    "url": "https://www.medikoo.com/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\type",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\type\\LICENSE"
+  },
+  "typescript@5.9.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/microsoft/TypeScript",
+    "publisher": "Microsoft Corp.",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\typescript",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\typescript\\LICENSE.txt"
+  },
+  "undici-types@7.10.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodejs/undici",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\undici-types",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\undici-types\\LICENSE"
+  },
+  "unist-util-is@6.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/unist-util-is",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\unist-util-is",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\unist-util-is\\license"
+  },
+  "unist-util-visit-parents@6.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/unist-util-visit-parents",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\unist-util-visit-parents",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\unist-util-visit-parents\\license"
+  },
+  "unist-util-visit@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/unist-util-visit",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\unist-util-visit",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\unist-util-visit\\license"
+  },
+  "vite@6.3.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vitejs/vite",
+    "publisher": "Evan You",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\vite",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\vite\\LICENSE.md"
+  },
+  "vitefu@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/svitejs/vitefu",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\vitefu",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\vitefu\\LICENSE"
+  },
+  "webidl-conversions@3.0.1": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/jsdom/webidl-conversions",
+    "publisher": "Domenic Denicola",
+    "email": "d@domenic.me",
+    "url": "https://domenic.me/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\webidl-conversions",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\webidl-conversions\\LICENSE.md"
+  },
+  "whatwg-url@5.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jsdom/whatwg-url",
+    "publisher": "Sebastian Mayr",
+    "email": "github@smayr.name",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\whatwg-url",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\whatwg-url\\LICENSE.txt"
+  },
+  "which@2.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-which",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\which",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\which\\LICENSE"
+  },
+  "wrap-ansi@7.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/wrap-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\wrap-ansi-cjs",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\wrap-ansi-cjs\\license"
+  },
+  "wrap-ansi@8.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/wrap-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\wrap-ansi",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\wrap-ansi\\license"
+  },
+  "ws@8.18.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/websockets/ws",
+    "publisher": "Einar Otto Stangvik",
+    "email": "einaros@gmail.com",
+    "url": "http://2x.io",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ws",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\ws\\LICENSE"
+  },
+  "yallist@5.0.0": {
+    "licenses": "BlueOak-1.0.0",
+    "repository": "https://github.com/isaacs/yallist",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\yallist",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\yallist\\LICENSE.md"
+  },
+  "zimmerframe@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Rich-Harris/zimmerframe",
+    "path": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\zimmerframe",
+    "licenseFile": "C:\\Coding\\Bachelorarbeit\\HISTAR\\node_modules\\zimmerframe\\LICENSE"
+  }
+}
