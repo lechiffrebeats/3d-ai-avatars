@@ -33,20 +33,37 @@ It consists of a **SvelteKit client** (3D rendering + evaluation UI) and a **Pyt
 
   * Stores all evaluation data (GAAIS, NASA-TLX, tasks, feedback).
 
----
+## 👀 **Avatars (Licensing Notice)**
 
-## 👀 **Avatars**
+The avatar models used in this project are **paid assets purchased from CGTrader**. 
+Due to licensing restrictions, **the original `.glb/.fbx` files cannot be included in this public repository** and are **not allowed to be redistributed**.
 
-Two static GLB models (rigged & prepared in Blender):
+Instead, the repository contains only **code**, **placeholders**, and **instructions**.
+
+If you want to run the full 3D avatar version:
 
 ```
-static/models/Male_Version_2.glb
-static/models/Female_Version_4.glb
+static/models/
+  Male_Version_2.glb        ← (not included)
+  Female_Version_4.glb      ← (not included)
 ```
 
-(These can be replaced or externally hosted.)
+### 🔒 Why the models are not included
 
----
+CGTrader’s Royalty-Free License **prohibits uploading or sharing the raw 3D model files** in any way that allows extraction (including public GitHub repositories).
+
+### ✔️ What *is* allowed
+
+You may:
+
+* use your **own legally purchased copy** of the avatars
+* place them in `static/models/`
+* run the project without modifications
+* replace them with **your own models** (open-source or custom)
+
+### 📩 Need help?
+
+If you need a **license-safe alternative setup**, contact me or replace the models with **open-source CC0 avatars**.
 
 ## 🔧 **Tech Stack**
 
@@ -102,7 +119,7 @@ npm install
 npm run dev -- --open
 ```
 
-Frontend runs at `http://localhost:5173/`, communicating with `VM_API_URL` located in `https://github.com/lechiffrebeats/3d-ai-avatars-server`.
+Frontend runs at `http://localhost:5173/`, communicating with `VM_API_URL`.
 
 ---
 
