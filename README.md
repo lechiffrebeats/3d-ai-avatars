@@ -50,11 +50,26 @@ If you need a **license-safe alternative setup**, contact me or replace the mode
 
 ## 🔧 **Tech Stack**
 
-**Frontend:** SvelteKit, TypeScript, Three.js, Supabase, i18n
-**Backend:** Python 3.10, Flask, Whisper, Piper, Gunicorn + Nginx, PiperTTS, BFA
-**LLM:** `meta-llama-3.1-8b-rag` (via GWDG RAG Container)
+### **Frontend**
+- **SvelteKit** – https://kit.svelte.dev/  
+- **Vercel** (Client Hosting) – https://vercel.com/  
+- **Cloudflare** (Protection Layer) – https://www.cloudflare.com/  
+- **Supabase** (Evaluation Storage, DE Servers) – https://supabase.com/  
+- **Three.js** (3D Rendering) – https://threejs.org/  
 
----
+### **Backend**
+- **Python / Flask** – https://flask.palletsprojects.com/  
+- **Nginx** – https://nginx.org/  
+- **Gunicorn** – https://gunicorn.org/  
+
+### **AI / Speech / Processing**
+- **ARCANA (HPC GWDG)** – https://docs.hpc.gwdg.de/services/arcana/index.html  
+- **Bournemouth Forced Aligner (BFA)** – https://github.com/tabahi/bournemouth-forced-aligner  
+- **Whisper (OpenAI)** – https://platform.openai.com/research/whisper  
+- **Coqui TTS** – https://github.com/coqui-ai/TTS  
+
+For the full list of software usage and licensing, see:  
+`/about?p=oss`
 
 ## ⚙️ **Environment Variables (Excerpt)**
 
