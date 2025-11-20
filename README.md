@@ -102,7 +102,7 @@ npm install
 npm run dev -- --open
 ```
 
-Frontend runs at `http://localhost:5173/`, communicating with `VM_API_URL`.
+Frontend runs at `http://localhost:5173/`, communicating with `VM_API_URL` located in `https://github.com/lechiffrebeats/3d-ai-avatars-server`.
 
 ---
 
