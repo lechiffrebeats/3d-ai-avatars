@@ -5,6 +5,7 @@ The project compares a **3D avatar interface** to a **classical text interface**
 It consists of a **SvelteKit client** (3D rendering + evaluation UI) and a **Python Flask server** (STT, TTS, LLM proxy).
 
 > ⚠️ **Research prototype only** – no guarantees for correctness, stability, or production use.
+> ⚠️ **ServerSide** – can be found here: `https://github.com/lechiffrebeats/3d-ai-avatars-server`
 
 ---
 
