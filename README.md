@@ -1,7 +1,6 @@
 # **DoYouTrustMe – 3D AI Avatar Chatbot**
 ![3D Avatar Animation](src/lib/images/avatar/video.gif)
 
-
 Research prototype from a Bachelor’s thesis on **trust in 3D AI avatars**.
 The project is about a **3D avatar interface** with a **classical text interface** for information retrieval in a university context.
 It consists of a **SvelteKit client** (3D rendering + evaluation UI) and a **Python Flask server** (STT, TTS, LLM proxy).
