@@ -1,5 +1,5 @@
 /** @type {import('./$types').RequestHandler} */
-import {VM_API_KEY } from "$env/static/private";
+import {SERVER_API_KEY } from "$env/static/private";
 import { server_exhausted } from "$lib/General";
 import { CURR_API_SERVER } from "../Misc";
 
@@ -8,7 +8,7 @@ export async function POST({ request, fetch }) {
   const upstream = await fetch(`${CURR_API_SERVER}/stt/transcribe`, {
     method: "POST",
     headers: {
-      Authorization: `Bearer ${VM_API_KEY}`,
+      Authorization: `Bearer ${SERVER_API_KEY}`,
     },
     body: form,
   });

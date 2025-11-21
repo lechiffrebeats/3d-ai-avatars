@@ -1,6 +1,6 @@
 import { dev } from "$app/environment";
 import { json, type RequestHandler } from "@sveltejs/kit";
-import { getSessionOrder } from "$lib/server/supabaseServer";
+/* import { getSessionOrder } from "$lib/server/supabaseServer"; */
 
 const RAW_ALLOWED = [
   "http://localhost:5173",
@@ -36,9 +36,9 @@ export const POST: RequestHandler = async ({ request }) => {
   const { allowed, headers } = cors(request.headers.get("origin"));
   if (!allowed) return json({ error: "Forbidden" }, { status: 403, headers: { Vary: "Origin" } });
 
-  const session_order = await getSessionOrder();
+  /* const session_order = await getSessionOrder(); */
   return json(
-    { session_order },
+     "AB",
     { headers: { ...headers, "Cache-Control": "no-store" } }
   );
 };

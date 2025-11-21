@@ -25,11 +25,11 @@
 {#if $isMobile && $page.url.pathname.startsWith("/evaluation") && !$mobielWarningIgnored}
   <MobileWarning />
 {:else if $mobielWarningIgnored || !$isMobile}
-  {#if $generalStore.SHOW_EVALUATE}
+  <!-- {#if $generalStore.SHOW_EVALUATE}
     <Evaluator />
-  {/if}
+  {/if} -->
 
-  {#if $currEvalType === EVAL_TYPE.AVATAR}
+  {#if true /* $currEvalType === EVAL_TYPE.AVATAR */}
     <AvatarWrapper />
   {:else if $currEvalType === EVAL_TYPE.TEXT}
     <TextOnlyInterface />

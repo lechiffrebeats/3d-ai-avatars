@@ -1,5 +1,5 @@
 # **DoYouTrustMe – 3D AI Avatar Chatbot**
-![3D Avatar Animation](src/lib/images/avatar/Video.gif)
+![3D Avatar Animation](src/lib/images/avatar/video.gif)
 
 
 Research prototype from a Bachelor’s thesis on **trust in 3D AI avatars**.
@@ -76,25 +76,15 @@ For the full list of software usage and licensing, see:
 ## ⚙️ **Environment Variables (Excerpt)**
 
 ```bash
-# Supabase
-PUBLIC_SUPABASE_URL=
-PUBLIC_SUPABASE_ANON_KEY=
-SUPABASE_SERVICE_ROLE_KEY=
-SUPABASE_KEY_PRIVATE=
-SUPABASE_TOKEN=
-
 # VM / Python Server
-VM_API_URL=       # see the server github
-VM_API_KEY=
+SERVER_API_URL=       # see the server github
+SERVER_API_KEY=       # create via RSA for example
 
-# GWDG LLM
-GWDG_API_KEY=
-GWDG_BASE_URL=
-GWDG_MODEL=meta-llama-3.1-8b-rag
-GWDG_ARCANA_ID=
-
-# Misc
-BLOB_READ_WRITE_TOKEN=
+# LLM CREDENTIALS
+LLM_API_KEY=          # eg openai, deepseak, cgloud etc
+LLM_BASE_URL=         # accordingly
+LLM_MODEL=            # RAG cabaple ones are recomended eg meta-llama-3.1-8b-rag
+RAG_ID=               # accordingly
 ```
 
 A cloud setup (Azure/AWS) can replace Whisper, Piper, and LLM → reducing variables.
@@ -119,7 +109,7 @@ npm install
 npm run dev -- --open
 ```
 
-Frontend runs at `http://localhost:5173/`, communicating with `VM_API_URL`.
+Frontend runs at `http://localhost:5173/`, communicating with `SERVER_API_URL`.
 
 ---
 

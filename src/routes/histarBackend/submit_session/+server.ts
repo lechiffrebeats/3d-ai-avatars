@@ -1,7 +1,7 @@
 // src/routes/histarBackend/save_evaluation/+server.ts
 import { json, type RequestHandler } from "@sveltejs/kit";
 import { dev } from "$app/environment";
-import { supabaseClient, incrementCounter } from "$lib/server/supabaseServer";
+/* import { supabaseClient, incrementCounter } from "$lib/server/supabaseServer"; */
 import { server_exhausted } from "$lib/General";
 
 const RAW_ALLOWED = [
@@ -84,15 +84,15 @@ export const POST: RequestHandler = async ({ request, cookies }) => {
 
   console.log("row", row);
 
-  const { error } = await supabaseClient.from("Evaluations").insert([row]);
+ /*  const { error } = await supabaseClient.from("Evaluations").insert([row]);
   if (error) {
     server_exhausted.set(true);
     console.error("Supabase insert error:", error);
     return new Response("Insert failed", { status: 500, headers });
   }
-
+ */
   try {
-    await incrementCounter(s.order, s.session_id);
+    /* await incrementCounter(s.order, s.session_id); */
   } catch (e) {
     console.error("Counter increment failed:", e);
   }

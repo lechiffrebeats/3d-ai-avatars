@@ -101,7 +101,6 @@
 
   <div class="app" data-mobile={$isMobile}>
     <Header />
-
     <main>
       {@render children()}
     </main>

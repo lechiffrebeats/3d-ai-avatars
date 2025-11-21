@@ -1,5 +1,5 @@
 /** @type {import('./$types').RequestHandler} */
-import {VM_API_KEY} from "$env/static/private";
+import {SERVER_API_KEY} from "$env/static/private";
 import { server_exhausted } from "$lib/General";
 import { CURR_API_SERVER } from "../Misc";
 
@@ -10,7 +10,7 @@ export async function POST({ request }) {
   try {
     const reply = await fetch(`${CURR_API_SERVER}/tts/tts_align`, {
       method: "POST",
-      headers: { "Content-Type": "application/json", "Authorization": `Bearer ${VM_API_KEY}`, },
+      headers: { "Content-Type": "application/json", "Authorization": `Bearer ${SERVER_API_KEY}`, },
       body: JSON.stringify(fullRequest),
     });  
     
