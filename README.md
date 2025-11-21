@@ -1,6 +1,6 @@
 # **DoYouTrustMe – 3D AI Avatar Chatbot**
 <p align="center">
-  <img src="src\lib\images\avatar\Video.gif"  width="260" alt="3D Avatar Animation"/>
+  <img src="src/lib/images/avatar/Video.gif" width="100%" alt="3D Avatar Animation" />
 </p>
 
 
