@@ -1,7 +1,11 @@
 # **DoYouTrustMe – 3D AI Avatar Chatbot**
+<p align="center">
+  <img src="src\lib\images\avatar\avatar_scaled_1.gif"  width="260" alt="3D Avatar Animation"/>
+</p>
+
 
 Research prototype from a Bachelor’s thesis on **trust in 3D AI avatars**.
-The project compares a **3D avatar interface** with a **classical text interface** for information retrieval in a university context.
+The project is about a **3D avatar interface** with a **classical text interface** for information retrieval in a university context.
 It consists of a **SvelteKit client** (3D rendering + evaluation UI) and a **Python Flask server** (STT, TTS, LLM proxy).
 
 > ⚠️ **Research prototype** – no guarantees for correctness, stability, or production use.
@@ -82,7 +86,7 @@ SUPABASE_KEY_PRIVATE=
 SUPABASE_TOKEN=
 
 # VM / Python Server
-VM_API_URL=       # e.g. http://localhost:8000
+VM_API_URL=       # see the server github
 VM_API_KEY=
 
 # GWDG LLM
@@ -140,17 +144,8 @@ Frontend runs at `http://localhost:5173/`, communicating with `VM_API_URL`.
 ## ✨ **Key Features**
 
 * Real-time 3D avatar with **viseme-based lip-sync**
-* **Avatar vs. text interface** (between-subjects user study)
+* Background switchable
 * RAG-powered answers via GWDG
-* Full evaluation pipeline:
-
-  * Task performance
-  * GAAIS
-  * NASA-TLX
-  * Variant ratings
-  * Final questionnaire
-* Built-in results visualization (`/Results`)
-
 ---
 
 ## ⚠️ **Limitations**
@@ -168,7 +163,5 @@ Frontend runs at `http://localhost:5173/`, communicating with `VM_API_URL`.
   `npx license-checker --json --out static/licenses/npm-licenses.json`
 * **Python licenses:**
   `pip-licenses --format=json --output-file=pip-licenses.json`
-
-Avatar models and graphics are included **for research purposes only** and may require separate licensing for other use cases.
 
 ---
