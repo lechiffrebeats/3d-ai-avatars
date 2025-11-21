@@ -77,17 +77,9 @@ For the full list of software usage and licensing, see:
 
 ```bash
 # VM / Python Server
-SERVER_API_URL=       # see the server github
-SERVER_API_KEY=       # create via RSA for example
-
-# LLM CREDENTIALS
-LLM_API_KEY=          # eg openai, deepseak, cgloud etc
-LLM_BASE_URL=         # accordingly
-LLM_MODEL=            # RAG cabaple ones are recomended eg meta-llama-3.1-8b-rag
-RAG_ID=               # accordingly
+SERVER_API_URL=       # where ever 3d-ai-avatars-server runs (for this work it was some vm of the university)
+SERVER_API_KEY=       # create via RSA for example, this is to acces your 3d-ai-avatars-server
 ```
-
-A cloud setup (Azure/AWS) can replace Whisper, Piper, and LLM → reducing variables.
 
 ---
 

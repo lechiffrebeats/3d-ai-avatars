@@ -29,11 +29,11 @@
       <li class:active={page.url.pathname.startsWith("/evaluation")}>
         <a href="/evaluation">AI-Avatar</a>
       </li>
-     <!--  {#if page.url.hostname === "localhost"}
+      {#if page.url.hostname === "localhost"}
         <li class:active={page.url.pathname.startsWith("/Results")}>
           <a href="/Results">{$_("header.nav.results")}</a>
         </li>
-      {/if} -->
+      {/if}
     </ul>
   </nav>
 
