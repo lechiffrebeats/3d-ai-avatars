@@ -1,7 +1,5 @@
 # **DoYouTrustMe – 3D AI Avatar Chatbot**
-<p align="center">
-  <img src="src/lib/images/avatar/Video.gif" width="100%" alt="3D Avatar Animation" />
-</p>
+![3D Avatar Animation](src/lib/images/avatar/Video.gif)
 
 
 Research prototype from a Bachelor’s thesis on **trust in 3D AI avatars**.
